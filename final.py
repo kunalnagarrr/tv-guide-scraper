@@ -5,6 +5,8 @@ import requests
 import json
 import time
 from selenium import webdriver
+# from selenium.webdriver.chrome.service import Service  <- MODIFIED: REMOVED
+# from webdriver_manager.chrome import ChromeDriverManager <- MODIFIED: REMOVED
 from selenium.webdriver.chrome.options import Options
 from datetime import datetime, timedelta, date, timezone
 import html
@@ -33,16 +35,18 @@ desired_channels = [
 def get_fresh_credentials():
     """
     Uses Selenium to open the Dish TV guide page and grab fresh credentials.
-    (This function is unchanged as per your request)
+    (This function is MODIFIED to work on GitHub Actions)
     """
     print("🤖 Starting automated browser to get fresh credentials...")
     
+    # <<< MODIFIED FOR GITHUB ACTIONS >>>
     chrome_options = Options()
     chrome_options.add_argument("--headless")
-    chrome_options.add_argument("--window-size=1920,1080")
-    chrome_options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36")
+    chrome_options.add_argument("--no-sandbox")
+    chrome_options.add_argument("--disable-dev-shm-usage")
 
     driver = webdriver.Chrome(options=chrome_options)
+    # <<< END OF MODIFICATIONS >>>
     
     auth_token = None
     cookie_string = ""
@@ -151,13 +155,9 @@ def print_guide(all_channels, day_label):
     print("=" * 60)
     
     channels_printed = 0
+    # The list passed to this function is now pre-filtered, but this check remains as a safeguard.
     for channel in all_channels:
         channel_name = channel.get('channelname', 'Unknown Channel')
-        
-        # --- FILTERING LOGIC ---
-        # If the desired_channels list is not empty, and the current channel is not in it, skip.
-        if desired_channels and channel_name not in desired_channels:
-            continue
         
         channels_printed += 1
         print(f"\n- {channel_name}")
@@ -218,6 +218,8 @@ def create_timeline_guide():
         print(f"❌ Error loading or parsing JSON file: {e}")
         return
 
+    # The JSON is now pre-filtered, but this filtering logic remains as a safeguard
+    # and for consistency with the original HTML generator script's design.
     filtered_channels = [ch for ch in all_channels_data if not desired_channels or ch.get('channelname') in desired_channels]
     if not filtered_channels:
         print("❌ Warning: None of your desired channels were found in the JSON file.")
@@ -452,7 +454,6 @@ def create_timeline_guide():
 # ==============================================================================
 # --- MAIN EXECUTION BLOCK ---
 # ==============================================================================
-
 if __name__ == "__main__":
     # --- Step 1: Execute the scraper logic ---
     token, cookies = get_fresh_credentials()
@@ -465,17 +466,27 @@ if __name__ == "__main__":
         today_str = today.strftime('%d/%m/%Y')
         tomorrow_str = tomorrow.strftime('%d/%m/%Y')
 
-        # --- Fetch Data for Both Days ---
-        today_channels, _ = fetch_tv_guide(token, cookies, today_str)
-        tomorrow_channels, _ = fetch_tv_guide(token, cookies, tomorrow_str)
+        # --- Fetch Data for Both Days (Full data) ---
+        today_channels_all, _ = fetch_tv_guide(token, cookies, today_str)
+        tomorrow_channels_all, _ = fetch_tv_guide(token, cookies, tomorrow_str)
 
-        # --- Print Guides ---
+        # <<< NEW: Filter the channels based on the desired_channels list >>>
+        if desired_channels:
+            print(f"\nFiltering for {len(desired_channels)} desired channels...")
+            today_channels = [ch for ch in today_channels_all if ch.get('channelname') in desired_channels]
+            tomorrow_channels = [ch for ch in tomorrow_channels_all if ch.get('channelname') in desired_channels]
+        else:
+            # If the desired_channels list is empty, use all channels
+            today_channels = today_channels_all
+            tomorrow_channels = tomorrow_channels_all
+
+        # --- Print Guides to console (using the filtered data) ---
         if today_channels:
             print_guide(today_channels, f"TODAY ({today_str})")
         if tomorrow_channels:
             print_guide(tomorrow_channels, f"TOMORROW ({tomorrow_str})")
             
-        # --- Combine and Save Data ---
+        # --- Combine and Save Data (using the filtered data) ---
         if today_channels and tomorrow_channels:
             combined_channels_dict = {ch['channelname']: ch for ch in today_channels}
             for tmrw_ch in tomorrow_channels:
@@ -492,7 +503,7 @@ if __name__ == "__main__":
             save_filename = 'tv_guide_today_and_tomorrow.json'
             with open(save_filename, 'w', encoding='utf-8') as f:
                 json.dump(final_data_structure, f, indent=2, ensure_ascii=False)
-            print(f"\n📁 Complete combined data for all channels for today and tomorrow saved to: {save_filename}")
+            print(f"\n📁 Complete combined data for your desired channels saved to: {save_filename}")
             data_was_scraped = True
 
     else:
