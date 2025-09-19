@@ -196,7 +196,7 @@ def create_timeline_guide():
         "Star Movies", "Romedy Now", "MN+", "Star Movies Select HD"
     ]
     JSON_INPUT_FILE = 'tv_guide_today_and_tomorrow.json'
-    HTML_OUTPUT_FILE = 'my_timeline_guide.html'
+    HTML_OUTPUT_FILE = 'index.html'
 
     # --- HELPER FUNCTIONS (nested or specific to this part) ---
     def parse_assumed_local_time(time_str):
