@@ -3,7 +3,7 @@ name: Build and Deploy TV Guide
 on:
   workflow_dispatch:
   schedule:
-    - cron: '30 1 * * *'
+    - cron: '0 * * * *'
 
 jobs:
   build-and-deploy:
