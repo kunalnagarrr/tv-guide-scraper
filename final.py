@@ -5,8 +5,6 @@ import requests
 import json
 import time
 from selenium import webdriver
-# from selenium.webdriver.chrome.service import Service  <- MODIFIED: REMOVED
-# from webdriver_manager.chrome import ChromeDriverManager <- MODIFIED: REMOVED
 from selenium.webdriver.chrome.options import Options
 from datetime import datetime, timedelta, date, timezone
 import html
@@ -16,18 +14,15 @@ import html
 # ==============================================================================
 
 # --- SCRAPER CONFIGURATION ---
-# This list now contains the exact names for the channels you requested.
-# You can edit this list anytime to change which channels are shown.
-# If you make this list empty (desired_channels = []), it will show ALL channels.
 desired_channels = [
     "&prive HD",
     "&flix HD",
     "MNX",
-     "Sony Pix",
+    "Sony Pix",
     "Movies Now",
     "Star Movies",
     "Romedy Now",
-     "MN+",
+    "MN+",
     "Star Movies Select HD"
 ]
 
@@ -39,14 +34,12 @@ def get_fresh_credentials():
     """
     print("🤖 Starting automated browser to get fresh credentials...")
     
-    # <<< MODIFIED FOR GITHUB ACTIONS >>>
     chrome_options = Options()
     chrome_options.add_argument("--headless")
     chrome_options.add_argument("--no-sandbox")
     chrome_options.add_argument("--disable-dev-shm-usage")
 
     driver = webdriver.Chrome(options=chrome_options)
-    # <<< END OF MODIFICATIONS >>>
     
     auth_token = None
     cookie_string = ""
@@ -143,9 +136,6 @@ def fetch_tv_guide(auth_token, cookie_string, target_date_str):
         return None, None
 
 def print_guide(all_channels, day_label):
-    """
-    Prints the final, formatted TV guide for a specific day, filtered for desired channels.
-    """
     if not all_channels:
         print(f"No channel data was fetched for {day_label}.")
         return
@@ -155,7 +145,6 @@ def print_guide(all_channels, day_label):
     print("=" * 60)
     
     channels_printed = 0
-    # The list passed to this function is now pre-filtered, but this check remains as a safeguard.
     for channel in all_channels:
         channel_name = channel.get('channelname', 'Unknown Channel')
         
@@ -167,12 +156,9 @@ def print_guide(all_channels, day_label):
                 program_name = program.get('title', 'Unknown Program')
                 start_time_str = program.get('start', '')
                 end_time_str = program.get('stop', '')
-                
                 start_time = start_time_str[11:16] if start_time_str else ''
                 end_time = end_time_str[11:16] if end_time_str else ''
-                
                 time_display = f"{start_time} - {end_time}" if start_time and end_time else "Live"
-                
                 print(f"  ⏰ {time_display}: {program_name}")
         else:
             print("  No program information available.")
@@ -180,36 +166,24 @@ def print_guide(all_channels, day_label):
     if channels_printed == 0:
         print("\nNone of your desired channels were found in the schedule for this day.")
 
-
 # ==============================================================================
 # --- PART 2: HTML GUIDE GENERATOR CODE (from generate_html_guide.py) ---
 # ==============================================================================
 
 def create_timeline_guide():
-    """Reads the JSON data and writes a final, styled, interactive HTML timeline file."""
-    # This function is kept self-contained as per the original file structure.
-    # It has its own configuration variables inside it.
-    
-    # --- CONFIGURATION (from original generate_html_guide.py) ---
     desired_channels = [
         "&prive HD", "&flix HD", "MNX", "Sony Pix", "Movies Now",
         "Star Movies", "Romedy Now", "MN+", "Star Movies Select HD"
     ]
     JSON_INPUT_FILE = 'tv_guide_today_and_tomorrow.json'
-    HTML_OUTPUT_FILE = 'index.html'
+    HTML_OUTPUT_FILE = 'index.html' # <<< YOUR FIX IS INCLUDED HERE
 
-    # --- HELPER FUNCTIONS (nested or specific to this part) ---
     def parse_assumed_local_time(time_str):
-        """
-        Parses a time string like "2025-09-19T19:10:00Z",
-        but ignores the 'Z' (UTC marker) and treats it as a naive, local time.
-        """
         return datetime.fromisoformat(time_str[:-1])
 
     print("\n" + "=" * 60)
     print("--- Starting HTML Guide Generation (v6.1 Timestamp Fix) ---")
 
-    # --- 1. Read and Process JSON data ---
     try:
         with open(JSON_INPUT_FILE, 'r', encoding='utf-8') as f:
             data = json.load(f)
@@ -218,8 +192,6 @@ def create_timeline_guide():
         print(f"❌ Error loading or parsing JSON file: {e}")
         return
 
-    # The JSON is now pre-filtered, but this filtering logic remains as a safeguard
-    # and for consistency with the original HTML generator script's design.
     filtered_channels = [ch for ch in all_channels_data if not desired_channels or ch.get('channelname') in desired_channels]
     if not filtered_channels:
         print("❌ Warning: None of your desired channels were found in the JSON file.")
@@ -230,43 +202,34 @@ def create_timeline_guide():
     today_date = datetime.now(ist_timezone).date()
     tomorrow_date = today_date + timedelta(days=1)
 
-    # --- COLOR PALETTE FOR CHANNELS ---
     color_palette = [
         ("#4285F4", "#1a73e8"), ("#DB4437", "#c53727"), ("#0F9D58", "#0b8043"),
         ("#AB47BC", "#8E24AA"), ("#00ACC1", "#00838F"), ("#FF7043", "#F4511E"),
         ("#F4B400", "#f09300"), ("#78909C", "#546E7A"), ("#5C6BC0", "#3949AB")
     ]
 
-    # --- 2. Generate HTML Blocks ---
     def generate_program_blocks(channels, target_date):
         blocks = []
         for i, ch in enumerate(channels):
             bg_color, border_color = color_palette[i % len(color_palette)]
-            
             for prog in ch.get('programs', []):
                 p_start = parse_assumed_local_time(prog['start'])
                 p_stop = parse_assumed_local_time(prog['stop'])
-
                 if p_start.date() == target_date:
                     duration_minutes = (p_stop - p_start).total_seconds() / 60
                     if duration_minutes <= 0: continue
-
                     start_minute_of_day = p_start.hour * 60 + p_start.minute
-                    
                     top_percent = (start_minute_of_day / 1440) * 100
                     height_percent = (duration_minutes / 1440) * 100
                     left_pixels = i * 200
                     width_pixels = 190
-
                     style = (
                         f'top:{top_percent:.4f}%; left:{left_pixels}px; height:{height_percent:.4f}%; width:{width_pixels}px;'
                         f'background-color: {bg_color}; border-color: {border_color};'
                     )
-                    
                     description = html.escape(prog.get("desc", "No description available."))
                     title = html.escape(prog.get("title", "Untitled Program"))
                     time_str = f'{p_start.strftime("%H:%M")} - {p_stop.strftime("%H:%M")}'
-                    
                     blocks.append(
                         f'<div class="program-block" style="{style}" data-description="{description}">'
                         f'<span class="program-title">{title}</span>'
@@ -275,7 +238,6 @@ def create_timeline_guide():
                     )
         return ''.join(blocks)
 
-    # --- 3. Assemble the Final HTML Document ---
     num_channels = len(filtered_channels)
     grid_width = num_channels * 200
     channel_headers_html = ''.join([f'<div class="channel-header">{html.escape(ch["channelname"])}</div>' for ch in filtered_channels])
@@ -295,12 +257,10 @@ def create_timeline_guide():
             const tomorrowGrid = document.getElementById('tomorrowGrid');
             const tooltip = document.getElementById('tooltip');
             const timeIndicator = document.querySelector('#todayGrid .time-indicator');
-
             scrollPane.addEventListener('scroll', () => {
                 channelsHeader.scrollLeft = scrollPane.scrollLeft;
                 timeMarkers.scrollTop = scrollPane.scrollTop;
             });
-            
             function updateReadability(gridElement) {
                 if (!gridElement || gridElement.classList.contains('hidden')) return;
                 gridElement.querySelectorAll('.program-block').forEach(block => {
@@ -310,22 +270,18 @@ def create_timeline_guide():
                     }
                 });
             }
-
             function showDay(day) {
                 const isToday = day === 'today';
                 todayGrid.classList.toggle('hidden', !isToday);
                 tomorrowGrid.classList.toggle('hidden', isToday);
                 todayBtn.classList.toggle('active', isToday);
                 tomorrowBtn.classList.toggle('active', !isToday);
-                
                 const visibleGrid = isToday ? todayGrid : tomorrowGrid;
                 updateReadability(visibleGrid);
-
                 if (isToday) { updateTimeline(); }
             }
             todayBtn.addEventListener('click', () => showDay('today'));
             tomorrowBtn.addEventListener('click', () => showDay('tomorrow'));
-
             document.querySelectorAll('.program-block').forEach(block => {
                 block.addEventListener('mousemove', function(e) {
                     tooltip.style.display = 'block';
@@ -343,7 +299,6 @@ def create_timeline_guide():
                     }
                 });
             });
-
             function getISTTime() {
                 const now = new Date();
                 const utc_ms = now.getTime();
@@ -351,7 +306,6 @@ def create_timeline_guide():
                 const istDate = new Date(utc_ms + ist_offset_ms);
                 return { hour: istDate.getUTCHours(), minute: istDate.getUTCMinutes() };
             }
-
             function updateTimeline() {
                 if (todayGrid.classList.contains('hidden')) return;
                 const istTime = getISTTime();
@@ -362,7 +316,6 @@ def create_timeline_guide():
                     timeIndicator.style.display = 'block';
                 }
             }
-
             function scrollToNow() {
                 const istTime = getISTTime();
                 const totalMinutes = istTime.hour * 60 + istTime.minute;
@@ -370,7 +323,6 @@ def create_timeline_guide():
                 const topPositionInPx = (topPercent / 100) * scrollPane.scrollHeight;
                 scrollPane.scrollTo({ top: Math.max(0, topPositionInPx - scrollPane.clientHeight / 3), behavior: 'smooth' });
             }
-
             showDay('today');
             scrollToNow();
             setInterval(updateTimeline, 60000);
@@ -444,12 +396,10 @@ def create_timeline_guide():
         javascript_block=JAVASCRIPT_BLOCK
     )
 
-    # --- 4. Write to File ---
     with open(HTML_OUTPUT_FILE, 'w', encoding='utf-8') as f:
         f.write(final_html)
     
     print(f"🎉 Success! Your new timeline guide has been created: '{HTML_OUTPUT_FILE}'")
-
 
 # ==============================================================================
 # --- MAIN EXECUTION BLOCK ---
@@ -514,3 +464,6 @@ if __name__ == "__main__":
         create_timeline_guide()
     else:
         print("\nSkipping HTML generation because data scraping failed.")
+
+}
+what next
