@@ -19518,6 +19518,2705 @@
       "_id": "143729"
     },
     {
+      "channelid": "143802",
+      "channelname": "Sony Pix",
+      "channelimage": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Mccia8ek.png",
+      "lcn": "545",
+      "programs": [
+        {
+          "title": "Live - Extraaa Innings Live",
+          "genre": "Sport",
+          "director": "",
+          "start": "2025-09-20T00:01:00Z",
+          "stop": "2025-09-20T00:45:00Z",
+          "desc": "Cricket experts discuss match highlights, player performances and strategic insights in this post-game analysis show, offering in-depth coverage of cricket matches, live.",
+          "date": "20250920",
+          "subgenre": "Cricket",
+          "dubbedlanguageid": "English",
+          "programmescore": "",
+          "seriesnumber": "",
+          "duration": "44",
+          "images": {
+            "landscape": {
+              "880x660": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png",
+              "744x558": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_744x558.png",
+              "648x486": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_648x486.png",
+              "587x440": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_587x440.png",
+              "500x375": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_500x375.png",
+              "400x300": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_400x300.png",
+              "360x270": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_360x270.png"
+            },
+            "portrait": {
+              "660x880": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_660x880.png",
+              "440x587": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_440x587.png",
+              "375x500": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_375x500.png",
+              "300x400": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_300x400.png",
+              "270x360": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_270x360.png"
+            },
+            "thumbnail": {
+              "50x50": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_50x50.png",
+              "70x50": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_70x50.png",
+              "110x110": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_110x110.png",
+              "128x96": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_128x96.png",
+              "150x150": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_150x150.png"
+            }
+          },
+          "credits": {
+            "actors": [],
+            "producers": [],
+            "directors": []
+          },
+          "regional": {
+            "english": {
+              "languagecode": "en",
+              "title": "Live - Extraaa Innings Live",
+              "desc": "Cricket experts discuss match highlights, player performances and strategic insights in this post-game analysis show, offering in-depth coverage of cricket matches, live.",
+              "genre": "Sport",
+              "channelname": "Sony Pix",
+              "channellanguage": "English"
+            },
+            "hindi": {
+              "languagecode": "hi",
+              "title": "एक्स्ट्रा इनिंग्स लाइव",
+              "desc": "क्रिकेट विशेषज्ञ इस पोस्ट-गेम विश्लेषण शो में मैच हाइलाइट्स, खिलाड़ियों के प्रदर्शन और रणनीतिक अंतर्दृष्टि पर चर्चा करते हैं, और क्रिकेट मैचों का गहन कवरेज प्रदान करते हैं।",
+              "genre": "खेल",
+              "channelname": "सोनी पिक्स एसडी",
+              "channellanguage": "अंग्रेज़ी"
+            },
+            "tamil": {
+              "languagecode": "ta",
+              "title": "எக்ஸ்ட்ரா இன்னிங்ஸ் லைவ்",
+              "desc": "கிரிக்கெட் நிபுணர்கள் போட்டி சிறப்பம்சங்கள், வீரர்களின் செயல்திறன் மற்றும் மூலோபாய நுண்ணறிவுகளை பற்றி விவாதிக்கின்றனர்.",
+              "genre": "விளையாட்டு",
+              "channelname": "",
+              "channellanguage": ""
+            },
+            "telugu": {
+              "languagecode": "te",
+              "title": "ఎక్స్‌ట్రా ఇన్నింగ్స్ లైవ్",
+              "desc": "నిపుణులు, పోస్ట్-గేమ్ విశ్లేషణ షోలో మ్యాచ్ హైలైట్‌లు, క్రీడాకారుల ప్రదర్శనలు, వ్యూహాత్మక అంతర్దృష్టులపై చర్చిస్తారు.",
+              "genre": "క్రీడ‌",
+              "channelname": "",
+              "channellanguage": "ఇంగ్లీష్"
+            },
+            "marathi": {
+              "languagecode": "mr",
+              "title": "",
+              "desc": "",
+              "genre": "क्रीडा",
+              "channelname": "",
+              "channellanguage": "इंग्रजी"
+            }
+          },
+          "channelid": "143802",
+          "channelname": "Sony Pix",
+          "channelimage": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Mccia8ek.png",
+          "lcn": "545",
+          "programstart": "2025-09-20T00:01:00.000Z",
+          "programstop": "2025-09-20T00:45:00.000Z",
+          "_id": "68ce4def85ffd708c0df5057",
+          "productionyear": "0",
+          "programlanguage": "",
+          "broadcastlanguage": "English",
+          "programmedubbedlanguagename": "English",
+          "programmeurl": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png",
+          "programmeid": "SH060393900000",
+          "episode-num": ""
+        },
+        {
+          "title": "Morbius",
+          "genre": "Film",
+          "director": "Daniel Espinosa",
+          "start": "2025-09-20T00:45:00Z",
+          "stop": "2025-09-20T02:22:00Z",
+          "desc": "Determined to cure the disease that has plagued him his entire life, Morbius conducts a drastic experiment, which bears unforeseen consequences.",
+          "date": "20250920",
+          "subgenre": "Action",
+          "dubbedlanguageid": "English",
+          "programmescore": "",
+          "seriesnumber": "",
+          "duration": "97",
+          "images": {
+            "landscape": {
+              "880x660": "https://dtil.tmsimg.com/assets/p17813054_v_h9_ad.jpg?lock=880x660",
+              "1280x720": "https://dtil.tmsimg.com/assets/p17813054_v_h8_ad.jpg?lock=1280x720",
+              "744x558": "https://dtil.tmsimg.com/assets/p17813054_v_h9_ad.jpg?lock=880x660",
+              "648x486": "https://dtil.tmsimg.com/assets/p17813054_v_h9_ad.jpg?lock=880x660",
+              "587x440": "https://dtil.tmsimg.com/assets/p17813054_v_h9_ad.jpg?lock=880x660",
+              "500x375": "https://dtil.tmsimg.com/assets/p17813054_v_h9_ad.jpg?lock=880x660",
+              "400x300": "https://dtil.tmsimg.com/assets/p17813054_v_h9_ad.jpg?lock=880x660",
+              "360x270": "https://dtil.tmsimg.com/assets/p17813054_v_h9_ad.jpg?lock=880x660"
+            },
+            "portrait": {
+              "660x880": "https://dtil.tmsimg.com/assets/p17813054_v_v13_ad.jpg?lock=660x880"
+            }
+          },
+          "credits": {
+            "actors": [
+              "Jared Leto",
+              "Matt Smith",
+              "Adria Arjona",
+              "Jared Harris",
+              "Tyrese Gibson",
+              "Al Madrigal",
+              "Michael Keaton",
+              "Corey Johnson",
+              "Charlie Shotwell",
+              "Tom Forbes"
+            ],
+            "producers": [
+              "Avi Arad",
+              "Matthew Tolmach",
+              "Lucas Foster"
+            ],
+            "directors": [
+              "Daniel Espinosa"
+            ]
+          },
+          "regional": {
+            "english": {
+              "languagecode": "en",
+              "title": "Morbius",
+              "desc": "Determined to cure the disease that has plagued him his entire life, Morbius conducts a drastic experiment, which bears unforeseen consequences.",
+              "genre": "Film",
+              "channelname": "Sony Pix",
+              "channellanguage": "English"
+            },
+            "hindi": {
+              "languagecode": "hi",
+              "title": "मोर्बियस",
+              "desc": "",
+              "genre": "फ़िल्म",
+              "channelname": "सोनी पिक्स एसडी",
+              "channellanguage": "अंग्रेज़ी"
+            },
+            "tamil": {
+              "languagecode": "ta",
+              "title": "மோர்பியஸ்",
+              "desc": "தனது வாழ்நாள் முழுவதும் அவரைத் தாக்கிய நோயைக் குணப்படுத்த தீர்மானித்த மோர்பியஸ், கடுமையான பரிசோதனைக்கு உட்படுகிறார்.",
+              "genre": "??????????",
+              "channelname": "",
+              "channellanguage": ""
+            },
+            "telugu": {
+              "languagecode": "te",
+              "title": "మోర్బియస్",
+              "desc": "తనను జీవితాంతం బాధపెట్టే వ్యాధిని నయం చేసుకోవడానికి మోర్బియస్ చేసిన ఒక ప్రయోగం ఊహించని పరిణామాలకు దారితీస్తుంది.",
+              "genre": "సినిమా",
+              "channelname": "",
+              "channellanguage": "ఇంగ్లీష్"
+            },
+            "marathi": {
+              "languagecode": "mr",
+              "title": "मॉर्बिअस",
+              "desc": "",
+              "genre": "चित्रपट",
+              "channelname": "",
+              "channellanguage": "इंग्रजी"
+            }
+          },
+          "channelid": "143802",
+          "channelname": "Sony Pix",
+          "channelimage": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Mccia8ek.png",
+          "lcn": "545",
+          "programstart": "2025-09-20T00:45:00.000Z",
+          "programstop": "2025-09-20T02:22:00.000Z",
+          "_id": "68ce4def85ffd708c0df5058",
+          "productionyear": "2022",
+          "programlanguage": "English",
+          "broadcastlanguage": "English",
+          "programmedubbedlanguagename": "English",
+          "programmeurl": "https://dtil.tmsimg.com/assets/p17813054_v_h9_ad.jpg?lock=880x660",
+          "programmeid": "MV018825480000",
+          "episode-num": ""
+        },
+        {
+          "title": "Battle: Los Angeles",
+          "genre": "Film",
+          "director": "Jonathan Liebesman",
+          "start": "2025-09-20T02:22:00Z",
+          "stop": "2025-09-20T04:14:00Z",
+          "desc": "Michael Nantz, a Marine staff sergeant, renders his services again, soon after his retirement. He and his platoon have to save the city of Los Angeles from alien invaders.",
+          "date": "20250920",
+          "subgenre": "Action",
+          "dubbedlanguageid": "English",
+          "programmescore": "",
+          "seriesnumber": "",
+          "duration": "112",
+          "images": {
+            "landscape": {
+              "880x660": "https://dtil.tmsimg.com/assets/p8288118_v_h9_aa.jpg?lock=880x660",
+              "1280x720": "https://dtil.tmsimg.com/assets/p8288118_v_h10_aa.jpg?lock=1280x720",
+              "744x558": "https://dtil.tmsimg.com/assets/p8288118_v_h9_aa.jpg?lock=880x660",
+              "648x486": "https://dtil.tmsimg.com/assets/p8288118_v_h9_aa.jpg?lock=880x660",
+              "587x440": "https://dtil.tmsimg.com/assets/p8288118_v_h9_aa.jpg?lock=880x660",
+              "500x375": "https://dtil.tmsimg.com/assets/p8288118_v_h9_aa.jpg?lock=880x660",
+              "400x300": "https://dtil.tmsimg.com/assets/p8288118_v_h9_aa.jpg?lock=880x660",
+              "360x270": "https://dtil.tmsimg.com/assets/p8288118_v_h9_aa.jpg?lock=880x660"
+            },
+            "portrait": {
+              "660x880": "https://dtil.tmsimg.com/assets/p8288118_v_v10_ag.jpg?lock=660x880"
+            }
+          },
+          "credits": {
+            "actors": [
+              "Aaron Eckhart",
+              "Michelle Rodriguez",
+              "Ramón Rodríguez",
+              "Bridget Moynahan",
+              "Ne-Yo",
+              "Michael Peña",
+              "Lucas Till",
+              "Cory Hardrict",
+              "Adetokumboh M'Cormack",
+              "Jim Parrack",
+              "Will Rothhaar",
+              "Neil Brown Jr.",
+              "Noel Fisher",
+              "Taylor Handley",
+              "James Hiroyuki Liao",
+              "Gino Anthony Pesi",
+              "Joey King",
+              "Bryce Cass",
+              "Jadin Gould"
+            ],
+            "producers": [
+              "Neal H. Moritz",
+              "Ori Marmur"
+            ],
+            "directors": [
+              "Jonathan Liebesman"
+            ]
+          },
+          "regional": {
+            "english": {
+              "languagecode": "en",
+              "title": "Battle: Los Angeles",
+              "desc": "Michael Nantz, a Marine staff sergeant, renders his services again, soon after his retirement. He and his platoon have to save the city of Los Angeles from alien invaders.",
+              "genre": "Film",
+              "channelname": "Sony Pix",
+              "channellanguage": "English"
+            },
+            "hindi": {
+              "languagecode": "hi",
+              "title": "बैटल: लॉस एंजिलिस",
+              "desc": "",
+              "genre": "फ़िल्म",
+              "channelname": "सोनी पिक्स एसडी",
+              "channellanguage": "अंग्रेज़ी"
+            },
+            "tamil": {
+              "languagecode": "ta",
+              "title": "பேட்டல்: லாஸ் ஏஞ்சல்ஸ்",
+              "desc": "தனது சேவைகளை மீண்டும் வழங்கும் ஓய்வு பெற்ற மைக்கேல், லாஸ் ஏஞ்சல்ஸை ஏலியன்களிடமிருந்து காப்பாற்ற அழைக்கப்படுகிறார்.",
+              "genre": "??????????",
+              "channelname": "",
+              "channellanguage": ""
+            },
+            "telugu": {
+              "languagecode": "te",
+              "title": "బ్యాటిల్: లాస్ ఏంజిల్స్",
+              "desc": "పదవీవిరమణ తరువాత కూడా సేవలందిస్తున్న మెరైన్ సార్జెంట్ మైఖేల్ గ్రహాంతర వాసుల నుండి లాస్ ఏంజిల్స్ నగరాన్ని కాపాడతాడు.",
+              "genre": "సినిమా",
+              "channelname": "",
+              "channellanguage": "ఇంగ్లీష్"
+            },
+            "marathi": {
+              "languagecode": "mr",
+              "title": "बॅटल: लॉस एंजल्स",
+              "desc": "",
+              "genre": "चित्रपट",
+              "channelname": "",
+              "channellanguage": "इंग्रजी"
+            }
+          },
+          "channelid": "143802",
+          "channelname": "Sony Pix",
+          "channelimage": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Mccia8ek.png",
+          "lcn": "545",
+          "programstart": "2025-09-20T02:22:00.000Z",
+          "programstop": "2025-09-20T04:14:00.000Z",
+          "_id": "68ce4def85ffd708c0df5059",
+          "productionyear": "2011",
+          "programlanguage": "English",
+          "broadcastlanguage": "English",
+          "programmedubbedlanguagename": "English",
+          "programmeurl": "https://dtil.tmsimg.com/assets/p8288118_v_h9_aa.jpg?lock=880x660",
+          "programmeid": "MV021699090000",
+          "episode-num": ""
+        },
+        {
+          "title": "Pix Exclusive",
+          "genre": "TV Show",
+          "director": "",
+          "start": "2025-09-20T04:14:00Z",
+          "stop": "2025-09-20T04:24:00Z",
+          "desc": "The hosts discuss the behind the scene moments of some of the most popular movies as the cast and crew talk about their experiences of making the movie.",
+          "date": "20250920",
+          "subgenre": "Entertainment",
+          "dubbedlanguageid": "English",
+          "programmescore": "",
+          "seriesnumber": "",
+          "duration": "10",
+          "images": {
+            "landscape": {
+              "880x660": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png",
+              "744x558": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_744x558.png",
+              "648x486": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_648x486.png",
+              "587x440": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_587x440.png",
+              "500x375": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_500x375.png",
+              "400x300": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_400x300.png",
+              "360x270": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_360x270.png"
+            },
+            "portrait": {
+              "660x880": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_660x880.png",
+              "440x587": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_440x587.png",
+              "375x500": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_375x500.png",
+              "300x400": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_300x400.png",
+              "270x360": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_270x360.png"
+            },
+            "thumbnail": {
+              "50x50": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_50x50.png",
+              "70x50": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_70x50.png",
+              "110x110": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_110x110.png",
+              "128x96": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_128x96.png",
+              "150x150": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_150x150.png"
+            }
+          },
+          "credits": {
+            "actors": [],
+            "producers": [],
+            "directors": []
+          },
+          "regional": {
+            "english": {
+              "languagecode": "en",
+              "title": "Pix Exclusive",
+              "desc": "The hosts discuss the behind the scene moments of some of the most popular movies as the cast and crew talk about their experiences of making the movie.",
+              "genre": "TV Show",
+              "channelname": "Sony Pix",
+              "channellanguage": "English"
+            },
+            "hindi": {
+              "languagecode": "hi",
+              "title": "",
+              "desc": "",
+              "genre": "टीवी कार्यक्रम",
+              "channelname": "सोनी पिक्स एसडी",
+              "channellanguage": "अंग्रेज़ी"
+            },
+            "tamil": {
+              "languagecode": "ta",
+              "title": "",
+              "desc": "",
+              "genre": "தொலைக்காட்சி நிகழ்ச்சி",
+              "channelname": "",
+              "channellanguage": ""
+            },
+            "telugu": {
+              "languagecode": "te",
+              "title": "",
+              "desc": "",
+              "genre": "టీవీ కార్య‌క్ర‌మం",
+              "channelname": "",
+              "channellanguage": "ఇంగ్లీష్"
+            },
+            "marathi": {
+              "languagecode": "mr",
+              "title": "",
+              "desc": "",
+              "genre": "टीव्ही कार्यक्रम",
+              "channelname": "",
+              "channellanguage": "इंग्रजी"
+            }
+          },
+          "channelid": "143802",
+          "channelname": "Sony Pix",
+          "channelimage": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Mccia8ek.png",
+          "lcn": "545",
+          "programstart": "2025-09-20T04:14:00.000Z",
+          "programstop": "2025-09-20T04:24:00.000Z",
+          "_id": "68ce4def85ffd708c0df505a",
+          "productionyear": "0",
+          "programlanguage": "",
+          "broadcastlanguage": "English",
+          "programmedubbedlanguagename": "English",
+          "programmeurl": "https://epg-garcenote-assets.s3.amazonaws.com/dishtvd2h/resources/assets/thumbnails/programs/default/default_880x660.png",
+          "programmeid": "SH053596480000",
+          "episode-num": ""
+        },
+        {
+          "title": "Big Daddy",
+          "genre": "Film",
+          "director": "Dennis Dugan",
+          "start": "2025-09-20T04:24:00Z",
+          "stop": "2025-09-20T05:50:00Z",
+          "desc": "A careless graduate takes care of a boy to impress his lover, but things undergo a change.",
+          "date": "20250920",
+          "subgenre": "Comedy",
+          "dubbedlanguageid": "English",
+          "programmescore": "",
+          "seriesnumber": "",
+          "duration": "86",
+          "images": {
+            "landscape": {
+              "880x660": "https://dtil.tmsimg.com/assets/p23404_v_h9_ae.jpg?lock=880x660",
+              "1280x720": "https://dtil.tmsimg.com/assets/p23404_v_h10_ae.jpg?lock=1280x720",
+              "744x558": "https://dtil.tmsimg.com/assets/p23404_v_h9_ae.jpg?lock=880x660",
+              "648x486": "https://dtil.tmsimg.com/assets/p23404_v_h9_ae.jpg?lock=880x660",
+              "587x440": "https://dtil.tmsimg.com/assets/p23404_v_h9_ae.jpg?lock=880x660",
+              "500x375": "https://dtil.tmsimg.com/assets/p23404_v_h9_ae.jpg?lock=880x660",
+              "400x300": "https://dtil.tmsimg.com/assets/p23404_v_h9_ae.jpg?lock=880x660",
+              "360x270": "https://dtil.tmsimg.com/assets/p23404_v_h9_ae.jpg?lock=880x660"
+            },
+            "portrait": {
+              "660x880": "https://dtil.tmsimg.com/assets/p23404_v_v9_ah.jpg?lock=660x880"
+            }
+          },
+          "credits": {
+            "actors": [
+              "Adam Sandler",
+              "Joey Lauren Adams",
+              "Jon Stewart",
+              "Dylan Sprouse",
+              "Cole Sprouse",
+              "Josh Mostel",
+              "Leslie Mann",
+              "Allen Covert",
+              "Rob Schneider",
+              "Kristy Swanson",
+              "Joseph Bologna",
+              "Peter Dante",
+              "Jonathan Loughran",
+              "Steve Buscemi",
+              "Tim Herlihy",
+              "Edmund Lyndeck",
+              "Larkin Malloy",
+              "Samantha Brown",
+              "Neal Huff",
+              "Geoffrey Horne",
+              "Greg Haberny",
+              "Jackie Sandler",
+              "George Hall",
+              "Peggy Shay",
+              "Alfonso Ramirez",
+              "Salvatore Cavaliere",
+              "Kelly Dugan",
+              "Jared Sandler",
+              "Jillian Sandler",
+              "Helen Lloyd Breed",
+              "Chloé Hult"
+            ],
+            "producers": [
+              "Sidney Ganis",
+              "Jack Giarraputo"
+            ],
+            "directors": [
+              "Dennis Dugan"
+            ]
+          },
+          "regional": {
+            "english": {
+              "languagecode": "en",
+              "title": "Big Daddy",
+              "desc": "A careless graduate takes care of a boy to impress his lover, but things undergo a change.",
+              "genre": "Film",
+              "channelname": "Sony Pix",
+              "channellanguage": "English"
+            },
+            "hindi": {
+              "languagecode": "hi",
+              "title": "बिग डैडी",
+              "desc": "",
+              "genre": "फ़िल्म",
+              "channelname": "सोनी पिक्स एसडी",
+              "channellanguage": "अंग्रेज़ी"
+            },
+            "tamil": {
+              "languagecode": "ta",
+              "title": "பிக் டேடி",
+              "desc": "ஒரு இளைஞர், தன்னை விட்டுப் பிரிய இருந்த தனது காதலியை அடைய ஒரு தவறான வழிகாட்டுதலால் ஒரு ஐந்து வயது சிறுவனை தத்தெடுகிறார்.",
+              "genre": "??????????",
+              "channelname": "",
+              "channellanguage": ""
+            },
+            "telugu": {
+              "languagecode": "te",
+              "title": "బిగ్ డాడీ",
+              "desc": "సోనీ తన ప్రేయసి మనసు తిరిగి గెలుచుకోడానికి ఐదేళ్ల జూలియన్ ను చూసుకోవాలనుకుంటాడు, కానీ వారి మధ్య నిజమైన బంధం ఏర్పడుతుంది.",
+              "genre": "సినిమా",
+              "channelname": "",
+              "channellanguage": "ఇంగ్లీష్"
+            },
+            "marathi": {
+              "languagecode": "mr",
+              "title": "बिग डॅडी",
+              "desc": "",
+              "genre": "चित्रपट",
+              "channelname": "",
+              "channellanguage": "इंग्रजी"
+            }
+          },
+          "channelid": "143802",
+          "channelname": "Sony Pix",
+          "channelimage": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Mccia8ek.png",
+          "lcn": "545",
+          "programstart": "2025-09-20T04:24:00.000Z",
+          "programstop": "2025-09-20T05:50:00.000Z",
+          "_id": "68ce4def85ffd708c0df505b",
+          "productionyear": "1999",
+          "programlanguage": "English",
+          "broadcastlanguage": "English",
+          "programmedubbedlanguagename": "English",
+          "programmeurl": "https://dtil.tmsimg.com/assets/p23404_v_h9_ae.jpg?lock=880x660",
+          "programmeid": "MV023176180000",
+          "episode-num": ""
+        },
+        {
+          "title": "A Few Good Men",
+          "genre": "Film",
+          "director": "Rob Reiner",
+          "start": "2025-09-20T05:50:00Z",
+          "stop": "2025-09-20T08:04:00Z",
+          "desc": "A lawyer from the US military safeguards two US marines who are charged for killing a fellow marine and a colonel turns into the prime suspect.",
+          "date": "20250920",
+          "subgenre": "Drama",
+          "dubbedlanguageid": "English",
+          "programmescore": "",
+          "seriesnumber": "",
+          "duration": "134",
+          "images": {
+            "landscape": {
+              "880x660": "https://dtil.tmsimg.com/assets/p14383_v_h9_aa.jpg?lock=880x660",
+              "1280x720": "https://dtil.tmsimg.com/assets/p14383_v_h10_aa.jpg?lock=1280x720",
+              "744x558": "https://dtil.tmsimg.com/assets/p14383_v_h9_aa.jpg?lock=880x660",
+              "648x486": "https://dtil.tmsimg.com/assets/p14383_v_h9_aa.jpg?lock=880x660",
+              "587x440": "https://dtil.tmsimg.com/assets/p14383_v_h9_aa.jpg?lock=880x660",
+              "500x375": "https://dtil.tmsimg.com/assets/p14383_v_h9_aa.jpg?lock=880x660",
+              "400x300": "https://dtil.tmsimg.com/assets/p14383_v_h9_aa.jpg?lock=880x660",
+              "360x270": "https://dtil.tmsimg.com/assets/p14383_v_h9_aa.jpg?lock=880x660"
+            },
+            "portrait": {
+              "660x880": "https://dtil.tmsimg.com/assets/p14383_v_v10_ab.jpg?lock=660x880"
+            }
+          },
+          "credits": {
+            "actors": [
+              "Tom Cruise",
+              "Jack Nicholson",
+              "Demi Moore",
+              "Kevin Bacon",
+              "Kiefer Sutherland",
+              "Kevin Pollak",
+              "James Marshall",
+              "J.T. Walsh",
+              "Christopher Guest",
+              "J.A. Preston",
+              "Matt Craven",
+              "Wolfgang Bodison",
+              "Cuba Gooding Jr."
+            ],
+            "producers": [
+              "Rob Reiner",
+              "Andrew Scheinman",
+              "David Brown"
+            ],
+            "directors": [
+              "Rob Reiner"
+            ]
+          },
+          "regional": {
+            "english": {
+              "languagecode": "en",
+              "title": "A Few Good Men",
+              "desc": "A lawyer from the US military safeguards two US marines who are charged for killing a fellow marine and a colonel turns into the prime suspect.",
+              "genre": "Film",
+              "channelname": "Sony Pix",
+              "channellanguage": "English"
+            },
+            "hindi": {
+              "languagecode": "hi",
+              "title": "अ फ्यू गुड मेन",
+              "desc": "",
+              "genre": "फ़िल्म",
+              "channelname": "सोनी पिक्स एसडी",
+              "channellanguage": "अंग्रेज़ी"
+            },
+            "tamil": {
+              "languagecode": "ta",
+              "title": "அ ஃப்யூ குட் மென்",
+              "desc": "அமெரிக்க இராணுவ வழக்கறிஞர், சக காவலரை கொன்றதற்காக கூறப்படும் இரு அமெரிக்க கடற்படையினரை காக்க, சந்தேகிக்கப்படும் கர்னல்.",
+              "genre": "??????????",
+              "channelname": "",
+              "channellanguage": ""
+            },
+            "telugu": {
+              "languagecode": "te",
+              "title": "ఎ ఫ్యూ గుడ్ మెన్",
+              "desc": "తోటి మెరైన్‌ని చంపినందుకు అభియోగాలు మోపబడిన ఇద్దరు యూఎస్ మెరైన్‌లను యూఎస్ మిలిటరీకి చెందిన ఒక న్యాయవాది రక్షిస్తాడు.",
+              "genre": "సినిమా",
+              "channelname": "",
+              "channellanguage": "ఇంగ్లీష్"
+            },
+            "marathi": {
+              "languagecode": "mr",
+              "title": "ए फ्यू गुड मेन",
+              "desc": "",
+              "genre": "चित्रपट",
+              "channelname": "",
+              "channellanguage": "इंग्रजी"
+            }
+          },
+          "channelid": "143802",
+          "channelname": "Sony Pix",
+          "channelimage": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Mccia8ek.png",
+          "lcn": "545",
+          "programstart": "2025-09-20T05:50:00.000Z",
+          "programstop": "2025-09-20T08:04:00.000Z",
+          "_id": "68ce4def85ffd708c0df505c",
+          "productionyear": "1992",
+          "programlanguage": "English",
+          "broadcastlanguage": "English",
+          "programmedubbedlanguagename": "English",
+          "programmeurl": "https://dtil.tmsimg.com/assets/p14383_v_h9_aa.jpg?lock=880x660",
+          "programmeid": "MV022296610000",
+          "episode-num": ""
+        },
+        {
+          "title": "The Water Horse",
+          "genre": "Film",
+          "director": "Jay Russell",
+          "start": "2025-09-20T08:04:00Z",
+          "stop": "2025-09-20T09:52:00Z",
+          "desc": "Young Angus Mac Morrow discovers a mysterious egg that grows up to be the Loch Ness monster. As they form a strong relationship, the boy's family refuses to believe in the creature's existence.",
+          "date": "20250920",
+          "subgenre": "Fantasy",
+          "dubbedlanguageid": "English",
+          "programmescore": "",
+          "seriesnumber": "",
+          "duration": "108",
+          "images": {
+            "landscape": {
+              "880x660": "https://dtil.tmsimg.com/assets/p171037_v_h9_af.jpg?lock=880x660",
+              "1280x720": "https://dtil.tmsimg.com/assets/p171037_v_h10_af.jpg?lock=1280x720",
+              "744x558": "https://dtil.tmsimg.com/assets/p171037_v_h9_af.jpg?lock=880x660",
+              "648x486": "https://dtil.tmsimg.com/assets/p171037_v_h9_af.jpg?lock=880x660",
+              "587x440": "https://dtil.tmsimg.com/assets/p171037_v_h9_af.jpg?lock=880x660",
+              "500x375": "https://dtil.tmsimg.com/assets/p171037_v_h9_af.jpg?lock=880x660",
+              "400x300": "https://dtil.tmsimg.com/assets/p171037_v_h9_af.jpg?lock=880x660",
+              "360x270": "https://dtil.tmsimg.com/assets/p171037_v_h9_af.jpg?lock=880x660"
+            },
+            "portrait": {
+              "660x880": "https://dtil.tmsimg.com/assets/p171037_v_v13_aj.jpg?lock=660x880"
+            }
+          },
+          "credits": {
+            "actors": [
+              "Emily Watson",
+              "Alex Etel",
+              "Ben Chaplin",
+              "David Morrissey",
+              "Brian Cox",
+              "Priyanka Xi",
+              "Marshall Napier",
+              "Joel Tobeck",
+              "Erroll Shand",
+              "Ian Harcourt",
+              "William Patrick Johnson",
+              "Bruce Allpress",
+              "Geraldine Brophy"
+            ],
+            "producers": [
+              "Robert Bernstein",
+              "Douglas Rae",
+              "Barrie M. Osborne",
+              "Charlie Lyons"
+            ],
+            "directors": [
+              "Jay Russell"
+            ]
+          },
+          "regional": {
+            "english": {
+              "languagecode": "en",
+              "title": "The Water Horse",
+              "desc": "Young Angus Mac Morrow discovers a mysterious egg that grows up to be the Loch Ness monster. As they form a strong relationship, the boy's family refuses to believe in the creature's existence.",
+              "genre": "Film",
+              "channelname": "Sony Pix",
+              "channellanguage": "English"
+            },
+            "hindi": {
+              "languagecode": "hi",
+              "title": "द वॉटर हॉर्स: लेजेंड ऑफ द डीप",
+              "desc": "",
+              "genre": "फ़िल्म",
+              "channelname": "सोनी पिक्स एसडी",
+              "channellanguage": "अंग्रेज़ी"
+            },
+            "tamil": {
+              "languagecode": "ta",
+              "title": "த வாட்டர் ஹார்ஸ்",
+              "desc": "தனிமையான இளம் பையன் ஆங்கஸ், ஒரு பெரிய மர்மமான முட்டையை சமாளிக்க இயலாமல் தள்ளாடுகையில், அது ஒரு நீர் குதிரை என அறிகிறார்.",
+              "genre": "??????????",
+              "channelname": "",
+              "channellanguage": ""
+            },
+            "telugu": {
+              "languagecode": "te",
+              "title": "ది వాట‌ర్ హార్స్‌",
+              "desc": "లోచ్ నెస్ రాక్షసుడిగా ఎదుగుతున్న ఒక రహస్యమైన గుడ్డును కనుగొన్న యువ అంగస్ మాక్ మారో, ఆ జీవితో స్నేహం చేస్తాడు.",
+              "genre": "సినిమా",
+              "channelname": "",
+              "channellanguage": "ఇంగ్లీష్"
+            },
+            "marathi": {
+              "languagecode": "mr",
+              "title": "द वॉटर हॉर्स",
+              "desc": "",
+              "genre": "चित्रपट",
+              "channelname": "",
+              "channellanguage": "इंग्रजी"
+            }
+          },
+          "channelid": "143802",
+          "channelname": "Sony Pix",
+          "channelimage": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Mccia8ek.png",
+          "lcn": "545",
+          "programstart": "2025-09-20T08:04:00.000Z",
+          "programstop": "2025-09-20T09:52:00.000Z",
+          "_id": "68ce4def85ffd708c0df505d",
+          "productionyear": "2007",
+          "programlanguage": "English",
+          "broadcastlanguage": "English",
+          "programmedubbedlanguagename": "English",
+          "programmeurl": "https://dtil.tmsimg.com/assets/p171037_v_h9_af.jpg?lock=880x660",
+          "programmeid": "MV022353880000",
+          "episode-num": ""
+        },
+        {
+          "title": "The Retirement Plan",
+          "genre": "Film",
+          "director": "Tim Brown",
+          "start": "2025-09-20T09:52:00Z",
+          "stop": "2025-09-20T11:29:00Z",
+          "desc": "When their involvement with the wrong people puts her and her family at risk, Ashley turns to her estranged father for help, who is living a retired life in the Cayman Islands.",
+          "date": "20250920",
+          "subgenre": "Action",
+          "dubbedlanguageid": "English",
+          "programmescore": "",
+          "seriesnumber": "",
+          "duration": "97",
+          "images": {
+            "landscape": {
+              "880x660": "https://dtil.tmsimg.com/assets/p24419113_v_h9_ac.jpg?lock=880x660",
+              "1280x720": "https://dtil.tmsimg.com/assets/p24419113_v_h8_ac.jpg?lock=1280x720",
+              "744x558": "https://dtil.tmsimg.com/assets/p24419113_v_h9_ac.jpg?lock=880x660",
+              "648x486": "https://dtil.tmsimg.com/assets/p24419113_v_h9_ac.jpg?lock=880x660",
+              "587x440": "https://dtil.tmsimg.com/assets/p24419113_v_h9_ac.jpg?lock=880x660",
+              "500x375": "https://dtil.tmsimg.com/assets/p24419113_v_h9_ac.jpg?lock=880x660",
+              "400x300": "https://dtil.tmsimg.com/assets/p24419113_v_h9_ac.jpg?lock=880x660",
+              "360x270": "https://dtil.tmsimg.com/assets/p24419113_v_h9_ac.jpg?lock=880x660"
+            },
+            "portrait": {
+              "660x880": "https://dtil.tmsimg.com/assets/p24419113_v_v13_ac.jpg?lock=660x880"
+            }
+          },
+          "credits": {
+            "actors": [
+              "Nicolas Cage",
+              "Ron Perlman",
+              "Ashley Greene",
+              "Jackie Earle Haley",
+              "Grace Byers",
+              "Ernie Hudson",
+              "Lynn Whitfield",
+              "Joel David Moore",
+              "Thalia Campbell",
+              "Rick Fox"
+            ],
+            "producers": [
+              "Doug Murray",
+              "Nicholas Tabarrok",
+              "William G. Santor"
+            ],
+            "directors": [
+              "Tim Brown"
+            ]
+          },
+          "regional": {
+            "english": {
+              "languagecode": "en",
+              "title": "The Retirement Plan",
+              "desc": "When their involvement with the wrong people puts her and her family at risk, Ashley turns to her estranged father for help, who is living a retired life in the Cayman Islands.",
+              "genre": "Film",
+              "channelname": "Sony Pix",
+              "channellanguage": "English"
+            },
+            "hindi": {
+              "languagecode": "hi",
+              "title": "द रिटायरमेंट प्लान",
+              "desc": "",
+              "genre": "फ़िल्म",
+              "channelname": "सोनी पिक्स एसडी",
+              "channellanguage": "अंग्रेज़ी"
+            },
+            "tamil": {
+              "languagecode": "ta",
+              "title": "த ரிடயர்மெண்ட் ப்ளான்",
+              "desc": "தவறான நபர்களுடனான சந்திப்பு அவளையும் அவளது குடும்பத்தையும் ஆபத்தில் ஆழ்த்தும்போது, ​​தனது தந்தையின் உதவியை நாடும் ஆஷ்லே.",
+              "genre": "??????????",
+              "channelname": "",
+              "channellanguage": ""
+            },
+            "telugu": {
+              "languagecode": "te",
+              "title": "ది రిటైర్మెంట్ ప్లాన్",
+              "desc": "తప్పుడు వ్యక్తులతో పరిచయం తనని, తన కుటుంబాన్ని ప్రమాదంలో పడినప్పుడు, యాష్లే విడిపోయిన తన తండ్రి సహాయాం కోరుతుంది.",
+              "genre": "సినిమా",
+              "channelname": "",
+              "channellanguage": "ఇంగ్లీష్"
+            },
+            "marathi": {
+              "languagecode": "mr",
+              "title": "",
+              "desc": "",
+              "genre": "चित्रपट",
+              "channelname": "",
+              "channellanguage": "इंग्रजी"
+            }
+          },
+          "channelid": "143802",
+          "channelname": "Sony Pix",
+          "channelimage": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Mccia8ek.png",
+          "lcn": "545",
+          "programstart": "2025-09-20T09:52:00.000Z",
+          "programstop": "2025-09-20T11:29:00.000Z",
+          "_id": "68ce4def85ffd708c0df505e",
+          "productionyear": "2023",
+          "programlanguage": "English",
+          "broadcastlanguage": "English",
+          "programmedubbedlanguagename": "English",
+          "programmeurl": "https://dtil.tmsimg.com/assets/p24419113_v_h9_ac.jpg?lock=880x660",
+          "programmeid": "MV022874390000",
+          "episode-num": ""
+        },
+        {
+          "title": "Spider-Man: Across the Spider-Verse",
+          "genre": "Film",
+          "director": "Joaquim Dos Santos,Kemp Powers,Justin K. Thompson",
+          "start": "2025-09-20T11:29:00Z",
+          "stop": "2025-09-20T13:45:00Z",
+          "desc": "Miles Morales travels the spider-verse and meets a league of spider-people as he fights a new enemy, the Spot. But upon trying to change his canon event, he is pitted against the other spidermen.",
+          "date": "20250920",
+          "subgenre": "Animation",
+          "dubbedlanguageid": "English",
+          "programmescore": "",
+          "seriesnumber": "",
+          "duration": "136",
+          "images": {
+            "landscape": {
+              "880x660": "https://dtil.tmsimg.com/assets/p20130736_v_h9_ah.jpg?lock=880x660",
+              "1280x720": "https://dtil.tmsimg.com/assets/p20130736_v_h8_ah.jpg?lock=1280x720",
+              "744x558": "https://dtil.tmsimg.com/assets/p20130736_v_h9_ah.jpg?lock=880x660",
+              "648x486": "https://dtil.tmsimg.com/assets/p20130736_v_h9_ah.jpg?lock=880x660",
+              "587x440": "https://dtil.tmsimg.com/assets/p20130736_v_h9_ah.jpg?lock=880x660",
+              "500x375": "https://dtil.tmsimg.com/assets/p20130736_v_h9_ah.jpg?lock=880x660",
+              "400x300": "https://dtil.tmsimg.com/assets/p20130736_v_h9_ah.jpg?lock=880x660",
+              "360x270": "https://dtil.tmsimg.com/assets/p20130736_v_h9_ah.jpg?lock=880x660"
+            },
+            "portrait": {
+              "660x880": "https://dtil.tmsimg.com/assets/p20130736_v_v13_ah.jpg?lock=660x880"
+            }
+          },
+          "credits": {
+            "actors": [
+              "Shameik Moore",
+              "Hailee Steinfeld",
+              "Brian Tyree Henry",
+              "Luna Lauren Velez",
+              "Jake Johnson",
+              "Oscar Isaac",
+              "Jason Schwartzman",
+              "Daniel Kaluuya",
+              "Issa Rae",
+              "Shea Whigham",
+              "Amandla Stenberg",
+              "Karan Soni",
+              "Rachel Dratch",
+              "Andy Samberg",
+              "Jorma Taccone"
+            ],
+            "producers": [
+              "Amy Pascal",
+              "Phil Lord",
+              "Chris Miller",
+              "Avi Arad",
+              "Christina Steinberg"
+            ],
+            "directors": [
+              "Joaquim Dos Santos",
+              "Kemp Powers",
+              "Justin K. Thompson"
+            ]
+          },
+          "regional": {
+            "english": {
+              "languagecode": "en",
+              "title": "Spider-Man: Across the Spider-Verse",
+              "desc": "Miles Morales travels the spider-verse and meets a league of spider-people as he fights a new enemy, the Spot. But upon trying to change his canon event, he is pitted against the other spidermen.",
+              "genre": "Film",
+              "channelname": "Sony Pix",
+              "channellanguage": "English"
+            },
+            "hindi": {
+              "languagecode": "hi",
+              "title": "स्पाइडर-मैन: एक्रोस द स्पाइडर-वर्स",
+              "desc": "",
+              "genre": "फ़िल्म",
+              "channelname": "सोनी पिक्स एसडी",
+              "channellanguage": "अंग्रेज़ी"
+            },
+            "tamil": {
+              "languagecode": "ta",
+              "title": "ஸ்பைடர்-மேன்: அக்ராஸ் த ஸ்பைடர்-வர்ஸ்",
+              "desc": "ஸ்பைடர் வர்ஸ் சென்று சாகசம் செய்யும் மோரல்ஸ், ஸ்டேசி மற்றும் ஸ்பைடர்-பீப்பிளுடன் சேர்ந்து ஒரு சூப்பர்வில்லனுடன் மோதுகிறார்.",
+              "genre": "??????????",
+              "channelname": "",
+              "channellanguage": ""
+            },
+            "telugu": {
+              "languagecode": "te",
+              "title": "స్పైడర్-మాన్: ఎక్రాస్ ద స్పైడర్-వెర్స్",
+              "desc": "స్పైడర్-వచనంలో ప్రయాణించిన మైల్స్ మోరేల్స్ కొత్త శత్రువు స్పాట్‌తో పోరాడుతున్నప్పుడు స్పైడర్ ప్రజలను కలుస్తాడు.",
+              "genre": "సినిమా",
+              "channelname": "",
+              "channellanguage": "ఇంగ్లీష్"
+            },
+            "marathi": {
+              "languagecode": "mr",
+              "title": "स्पायडर-मॅन: अक्रॉस द स्पायडर-व्हर्स",
+              "desc": "",
+              "genre": "चित्रपट",
+              "channelname": "",
+              "channellanguage": "इंग्रजी"
+            }
+          },
+          "channelid": "143802",
+          "channelname": "Sony Pix",
+          "channelimage": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Mccia8ek.png",
+          "lcn": "545",
+          "programstart": "2025-09-20T11:29:00.000Z",
+          "programstop": "2025-09-20T13:45:00.000Z",
+          "_id": "68ce4def85ffd708c0df505f",
+          "productionyear": "2023",
+          "programlanguage": "English",
+          "broadcastlanguage": "English",
+          "programmedubbedlanguagename": "English",
+          "programmeurl": "https://dtil.tmsimg.com/assets/p20130736_v_h9_ah.jpg?lock=880x660",
+          "programmeid": "MV022348090000",
+          "episode-num": ""
+        },
+        {
+          "title": "Escape Room",
+          "genre": "Film",
+          "director": "Adam Robitel",
+          "start": "2025-09-20T13:45:00Z",
+          "stop": "2025-09-20T15:21:00Z",
+          "desc": "Six people from different walks of life participate in an escape room competition to win ten thousand dollars. Things change when they find themselves in horrifying circumstances.",
+          "date": "20250920",
+          "subgenre": "Thriller",
+          "dubbedlanguageid": "English",
+          "programmescore": "",
+          "seriesnumber": "",
+          "duration": "96",
+          "images": {
+            "landscape": {
+              "880x660": "https://dtil.tmsimg.com/assets/p15659526_v_h9_ac.jpg?lock=880x660",
+              "1280x720": "https://dtil.tmsimg.com/assets/p15659526_v_h8_ac.jpg?lock=1280x720",
+              "744x558": "https://dtil.tmsimg.com/assets/p15659526_v_h9_ac.jpg?lock=880x660",
+              "648x486": "https://dtil.tmsimg.com/assets/p15659526_v_h9_ac.jpg?lock=880x660",
+              "587x440": "https://dtil.tmsimg.com/assets/p15659526_v_h9_ac.jpg?lock=880x660",
+              "500x375": "https://dtil.tmsimg.com/assets/p15659526_v_h9_ac.jpg?lock=880x660",
+              "400x300": "https://dtil.tmsimg.com/assets/p15659526_v_h9_ac.jpg?lock=880x660",
+              "360x270": "https://dtil.tmsimg.com/assets/p15659526_v_h9_ac.jpg?lock=880x660"
+            },
+            "portrait": {
+              "660x880": "https://dtil.tmsimg.com/assets/p15659526_v_v13_ad.jpg?lock=660x880"
+            }
+          },
+          "credits": {
+            "actors": [
+              "Taylor Russell",
+              "Logan Miller",
+              "Deborah Ann Woll",
+              "Tyler Labine",
+              "Jay Ellis",
+              "Nik Dodani",
+              "Adam Robitel",
+              "Kenneth Fok",
+              "Yorick van Wageningen",
+              "Jessica Sutton"
+            ],
+            "producers": [
+              "Neal H. Moritz",
+              "Ori Marmur"
+            ],
+            "directors": [
+              "Adam Robitel"
+            ]
+          },
+          "regional": {
+            "english": {
+              "languagecode": "en",
+              "title": "Escape Room",
+              "desc": "Six people from different walks of life participate in an escape room competition to win ten thousand dollars. Things change when they find themselves in horrifying circumstances.",
+              "genre": "Film",
+              "channelname": "Sony Pix",
+              "channellanguage": "English"
+            },
+            "hindi": {
+              "languagecode": "hi",
+              "title": "इस्केप रूम",
+              "desc": "",
+              "genre": "फ़िल्म",
+              "channelname": "सोनी पिक्स एसडी",
+              "channellanguage": "अंग्रेज़ी"
+            },
+            "tamil": {
+              "languagecode": "ta",
+              "title": "எஸ்கேப் ரூம்",
+              "desc": "எஸ்கேப் ரூம் போட்டியில் வெல்வதற்காக போட்டியிடும் ஆறு பேர், திகிலூட்டும் சூழ்நிலைகளில் சிக்கியபோது விஷயங்கள் மாறின.",
+              "genre": "??????????",
+              "channelname": "",
+              "channellanguage": ""
+            },
+            "telugu": {
+              "languagecode": "te",
+              "title": "ఎస్కేప్ రూమ్",
+              "desc": "పదివేల డాలర్ల బహుమతి కోసం గది నుండి తప్పించుకునే ఆటలో పోటీపడుతున్న ఆరుగురు వ్యక్తులు, భయానక పరిస్థితుల్లో చిక్కుకుంటారు.",
+              "genre": "సినిమా",
+              "channelname": "",
+              "channellanguage": "ఇంగ్లీష్"
+            },
+            "marathi": {
+              "languagecode": "mr",
+              "title": "एस्केप रम",
+              "desc": "",
+              "genre": "चित्रपट",
+              "channelname": "",
+              "channellanguage": "इंग्रजी"
+            }
+          },
+          "channelid": "143802",
+          "channelname": "Sony Pix",
+          "channelimage": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Mccia8ek.png",
+          "lcn": "545",
+          "programstart": "2025-09-20T13:45:00.000Z",
+          "programstop": "2025-09-20T15:21:00.000Z",
+          "_id": "68ce4def85ffd708c0df5060",
+          "productionyear": "2019",
+          "programlanguage": "English",
+          "broadcastlanguage": "English",
+          "programmedubbedlanguagename": "English",
+          "programmeurl": "https://dtil.tmsimg.com/assets/p15659526_v_h9_ac.jpg?lock=880x660",
+          "programmeid": "MV021220510000",
+          "episode-num": ""
+        },
+        {
+          "title": "Men in Black 3",
+          "genre": "Film",
+          "director": "Barry Sonnenfeld",
+          "start": "2025-09-20T15:21:00Z",
+          "stop": "2025-09-20T17:01:00Z",
+          "desc": "Agent J of the Men in Black goes back in time to prevent the assassination of his partner, Agent K, at the hands of an alien criminal named Boris the Animal.",
+          "date": "20250920",
+          "subgenre": "Action",
+          "dubbedlanguageid": "English",
+          "programmescore": "",
+          "seriesnumber": "",
+          "duration": "100",
+          "images": {
+            "landscape": {
+              "880x660": "https://dtil.tmsimg.com/assets/p8797139_v_h9_aa.jpg?lock=880x660",
+              "1280x720": "https://dtil.tmsimg.com/assets/p8797139_v_h10_aa.jpg?lock=1280x720",
+              "744x558": "https://dtil.tmsimg.com/assets/p8797139_v_h9_aa.jpg?lock=880x660",
+              "648x486": "https://dtil.tmsimg.com/assets/p8797139_v_h9_aa.jpg?lock=880x660",
+              "587x440": "https://dtil.tmsimg.com/assets/p8797139_v_h9_aa.jpg?lock=880x660",
+              "500x375": "https://dtil.tmsimg.com/assets/p8797139_v_h9_aa.jpg?lock=880x660",
+              "400x300": "https://dtil.tmsimg.com/assets/p8797139_v_h9_aa.jpg?lock=880x660",
+              "360x270": "https://dtil.tmsimg.com/assets/p8797139_v_h9_aa.jpg?lock=880x660"
+            },
+            "portrait": {
+              "660x880": "https://dtil.tmsimg.com/assets/p8797139_v_v10_ab.jpg?lock=660x880"
+            }
+          },
+          "credits": {
+            "actors": [
+              "Will Smith",
+              "Tommy Lee Jones",
+              "Josh Brolin",
+              "Jemaine Clement",
+              "Michael Stuhlbarg",
+              "Emma Thompson",
+              "Alice Eve",
+              "Bill Hader",
+              "David Rasche",
+              "Mike Colter",
+              "Lenny Venito",
+              "Keone Young",
+              "Nicole Scherzinger",
+              "Michael Chernus",
+              "Cayen Martin"
+            ],
+            "producers": [
+              "Walter F. Parkes",
+              "Laurie MacDonald"
+            ],
+            "directors": [
+              "Barry Sonnenfeld"
+            ]
+          },
+          "regional": {
+            "english": {
+              "languagecode": "en",
+              "title": "Men in Black 3",
+              "desc": "Agent J of the Men in Black goes back in time to prevent the assassination of his partner, Agent K, at the hands of an alien criminal named Boris the Animal.",
+              "genre": "Film",
+              "channelname": "Sony Pix",
+              "channellanguage": "English"
+            },
+            "hindi": {
+              "languagecode": "hi",
+              "title": "मेन इन ब्लैक 3",
+              "desc": "मेन इन ब्लैक का एजेंट जे, बोरिस जानवर के हाथों अपने साथी एजेंट के की हत्या को रोकने के लिए अतीत में वापस जाता है।",
+              "genre": "फ़िल्म",
+              "channelname": "सोनी पिक्स एसडी",
+              "channellanguage": "अंग्रेज़ी"
+            },
+            "tamil": {
+              "languagecode": "ta",
+              "title": "மென் இன் ப்ளாக் 3",
+              "desc": "சிறையிலிருந்து தப்பிய ஆபத்தான அன்னிய குற்றவாளியை பிடிக்க செல்லும் ஏஜெண்ட் ஜேவின் தேடலில் அவருக்கு ஏஜெண்ட் கே உதவுகிறார்.",
+              "genre": "??????????",
+              "channelname": "",
+              "channellanguage": ""
+            },
+            "telugu": {
+              "languagecode": "te",
+              "title": "మెన్ ఇన్ బ్లాక్ 3",
+              "desc": "ఏజెంట్ జే, బోరిస్ ది యానిమల్ అనే గ్రహాంతర నేరస్థుడి చేతిలో ఏజెంట్ కే హత్యకు గురికాకుండా నిరోధించడానికి గతంలోకి వెళ్తాడు.",
+              "genre": "సినిమా",
+              "channelname": "",
+              "channellanguage": "ఇంగ్లీష్"
+            },
+            "marathi": {
+              "languagecode": "mr",
+              "title": "मेन इन ब्लॅक 3",
+              "desc": "एजंट जे, बोरिस द अॅनिमल या परदेशी गुन्हेगाराच्या हातून त्याचा साथीदार, एजंट के याची हत्या रोखण्यासाठी भूतकाळात जातो.",
+              "genre": "चित्रपट",
+              "channelname": "",
+              "channellanguage": "इंग्रजी"
+            }
+          },
+          "channelid": "143802",
+          "channelname": "Sony Pix",
+          "channelimage": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Mccia8ek.png",
+          "lcn": "545",
+          "programstart": "2025-09-20T15:21:00.000Z",
+          "programstop": "2025-09-20T17:01:00.000Z",
+          "_id": "68ce4def85ffd708c0df5061",
+          "productionyear": "2012",
+          "programlanguage": "English",
+          "broadcastlanguage": "English",
+          "programmedubbedlanguagename": "English",
+          "programmeurl": "https://dtil.tmsimg.com/assets/p8797139_v_h9_aa.jpg?lock=880x660",
+          "programmeid": "MV018862200000",
+          "episode-num": ""
+        },
+        {
+          "title": "Welcome to the Jungle",
+          "genre": "Film",
+          "director": "Peter Berg",
+          "start": "2025-09-20T17:01:00Z",
+          "stop": "2025-09-20T18:45:00Z",
+          "desc": "Bounty hunter Beck is assigned to find Travis, an archaeology student. Soon, Beck finds himself in a brawl-filled race seeking a priceless artefact, which puts the duo at odds with a mine owner.",
+          "date": "20250920",
+          "subgenre": "Action",
+          "dubbedlanguageid": "English",
+          "programmescore": "",
+          "seriesnumber": "",
+          "duration": "104",
+          "images": {
+            "landscape": {
+              "880x660": "https://dtil.tmsimg.com/assets/p32831_v_h9_ad.jpg?lock=880x660",
+              "1280x720": "https://dtil.tmsimg.com/assets/p32831_v_h10_am.jpg?lock=1280x720",
+              "744x558": "https://dtil.tmsimg.com/assets/p32831_v_h9_ad.jpg?lock=880x660",
+              "648x486": "https://dtil.tmsimg.com/assets/p32831_v_h9_ad.jpg?lock=880x660",
+              "587x440": "https://dtil.tmsimg.com/assets/p32831_v_h9_ad.jpg?lock=880x660",
+              "500x375": "https://dtil.tmsimg.com/assets/p32831_v_h9_ad.jpg?lock=880x660",
+              "400x300": "https://dtil.tmsimg.com/assets/p32831_v_h9_ad.jpg?lock=880x660",
+              "360x270": "https://dtil.tmsimg.com/assets/p32831_v_h9_ad.jpg?lock=880x660"
+            },
+            "portrait": {
+              "660x880": "https://dtil.tmsimg.com/assets/p32831_v_v10_ab.jpg?lock=660x880"
+            }
+          },
+          "credits": {
+            "actors": [
+              "Dwayne Johnson",
+              "Seann William Scott",
+              "Rosario Dawson",
+              "Christopher Walken",
+              "Ewen Bremner",
+              "Jon Gries",
+              "William Lucking",
+              "Ernie Reyes Jr.",
+              "Stuart F. Wilson"
+            ],
+            "producers": [
+              "Kevin Misher",
+              "Marc Abraham",
+              "Karen Glasser"
+            ],
+            "directors": [
+              "Peter Berg"
+            ]
+          },
+          "regional": {
+            "english": {
+              "languagecode": "en",
+              "title": "Welcome to the Jungle",
+              "desc": "Bounty hunter Beck is assigned to find Travis, an archaeology student. Soon, Beck finds himself in a brawl-filled race seeking a priceless artefact, which puts the duo at odds with a mine owner.",
+              "genre": "Film",
+              "channelname": "Sony Pix",
+              "channellanguage": "English"
+            },
+            "hindi": {
+              "languagecode": "hi",
+              "title": "थे रुन्दोव्न्",
+              "desc": "",
+              "genre": "फ़िल्म",
+              "channelname": "सोनी पिक्स एसडी",
+              "channellanguage": "अंग्रेज़ी"
+            },
+            "tamil": {
+              "languagecode": "ta",
+              "title": "த ரன்டவுன்",
+              "desc": "டிராவிஸைக் கண்டுபிடிக்க நியமிக்கப்படும் பெக், விலைமதிப்பற்ற கலைப்பொருளைத் தேடும்போது சுரங்க உரிமையாளருடன் மோதுகிறார்.",
+              "genre": "??????????",
+              "channelname": "",
+              "channellanguage": ""
+            },
+            "telugu": {
+              "languagecode": "te",
+              "title": "ది రన్‌డౌన్",
+              "desc": "ట్రావిస్‌ని కనుగొనడానికి బయలుదేరిన బౌంటీ అమూల్యమైన కళాకృతిని కోరుతూ ఘర్షణలో పడతాడు. అది ఆఇద్దరినీ చిక్కుల్లో పడేస్తుంది.",
+              "genre": "సినిమా",
+              "channelname": "",
+              "channellanguage": "ఇంగ్లీష్"
+            },
+            "marathi": {
+              "languagecode": "mr",
+              "title": "द रनडाऊन",
+              "desc": "",
+              "genre": "चित्रपट",
+              "channelname": "",
+              "channellanguage": "इंग्रजी"
+            }
+          },
+          "channelid": "143802",
+          "channelname": "Sony Pix",
+          "channelimage": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Mccia8ek.png",
+          "lcn": "545",
+          "programstart": "2025-09-20T17:01:00.000Z",
+          "programstop": "2025-09-20T18:45:00.000Z",
+          "_id": "68ce4def85ffd708c0df5062",
+          "productionyear": "2003",
+          "programlanguage": "English",
+          "broadcastlanguage": "English",
+          "programmedubbedlanguagename": "English",
+          "programmeurl": "https://dtil.tmsimg.com/assets/p32831_v_h9_ad.jpg?lock=880x660",
+          "programmeid": "MV024813520000",
+          "episode-num": ""
+        },
+        {
+          "title": "Bullet Train",
+          "genre": "Film",
+          "director": "David Leitch",
+          "start": "2025-09-20T18:45:00Z",
+          "stop": "2025-09-20T20:42:00Z",
+          "desc": "Ladybug, a professional assassin, is assigned to retrieve a briefcase from a bullet train. Soon, he finds himself battling many other killers who board the same train but with a different objective.",
+          "date": "20250920",
+          "subgenre": "Action",
+          "dubbedlanguageid": "English",
+          "programmescore": "",
+          "seriesnumber": "",
+          "duration": "117",
+          "images": {
+            "landscape": {
+              "880x660": "https://dtil.tmsimg.com/assets/p21345047_v_h9_al.jpg?lock=880x660",
+              "1280x720": "https://dtil.tmsimg.com/assets/p21345047_v_h8_ai.jpg?lock=1280x720",
+              "744x558": "https://dtil.tmsimg.com/assets/p21345047_v_h9_al.jpg?lock=880x660",
+              "648x486": "https://dtil.tmsimg.com/assets/p21345047_v_h9_al.jpg?lock=880x660",
+              "587x440": "https://dtil.tmsimg.com/assets/p21345047_v_h9_al.jpg?lock=880x660",
+              "500x375": "https://dtil.tmsimg.com/assets/p21345047_v_h9_al.jpg?lock=880x660",
+              "400x300": "https://dtil.tmsimg.com/assets/p21345047_v_h9_al.jpg?lock=880x660",
+              "360x270": "https://dtil.tmsimg.com/assets/p21345047_v_h9_al.jpg?lock=880x660"
+            },
+            "portrait": {
+              "660x880": "https://dtil.tmsimg.com/assets/p21345047_v_v13_al.jpg?lock=660x880"
+            }
+          },
+          "credits": {
+            "actors": [
+              "Brad Pitt",
+              "Joey King",
+              "Aaron Taylor-Johnson",
+              "Brian Tyree Henry",
+              "Andrew Koji",
+              "Hiroyuki Sanada",
+              "Michael Shannon",
+              "Bad Bunny",
+              "Sandra Bullock",
+              "Zazie Beetz",
+              "Masi Oka",
+              "Logan Lerman",
+              "Karen Fukuhara"
+            ],
+            "producers": [
+              "Kelly McCormick",
+              "David Leitch",
+              "Antoine Fuqua"
+            ],
+            "directors": [
+              "David Leitch"
+            ]
+          },
+          "regional": {
+            "english": {
+              "languagecode": "en",
+              "title": "Bullet Train",
+              "desc": "Ladybug, a professional assassin, is assigned to retrieve a briefcase from a bullet train. Soon, he finds himself battling many other killers who board the same train but with a different objective.",
+              "genre": "Film",
+              "channelname": "Sony Pix",
+              "channellanguage": "English"
+            },
+            "hindi": {
+              "languagecode": "hi",
+              "title": "बुलेट ट्रेन",
+              "desc": "",
+              "genre": "फ़िल्म",
+              "channelname": "सोनी पिक्स एसडी",
+              "channellanguage": "अंग्रेज़ी"
+            },
+            "tamil": {
+              "languagecode": "ta",
+              "title": "புல்லட் ட்ரெய்ன் ",
+              "desc": "புல்லட் ரயிலில் பெட்டியை மீட்க கோரப்படும் அடியாள் லேடிபக், அதே ரயிலில் பல நோக்கங்களுடன் உள்ள கொலையாளிகளை எதிர்க்கிறார்.",
+              "genre": "??????????",
+              "channelname": "",
+              "channellanguage": ""
+            },
+            "telugu": {
+              "languagecode": "te",
+              "title": "బుల్లెట్ ట్రైన్",
+              "desc": "ఒక బుల్లెట్ రైలు నుండి ఒక బ్రీఫ్‌కేస్‌ను తీసుకురాడానికి నియమితుడైన లేడీబగ్, అందులో ఉన్న ఇతర హంతకులతో పోరాడతాడు.",
+              "genre": "సినిమా",
+              "channelname": "",
+              "channellanguage": "ఇంగ్లీష్"
+            },
+            "marathi": {
+              "languagecode": "mr",
+              "title": "",
+              "desc": "",
+              "genre": "चित्रपट",
+              "channelname": "",
+              "channellanguage": "इंग्रजी"
+            }
+          },
+          "channelid": "143802",
+          "channelname": "Sony Pix",
+          "channelimage": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Mccia8ek.png",
+          "lcn": "545",
+          "programstart": "2025-09-20T18:45:00.000Z",
+          "programstop": "2025-09-20T20:42:00.000Z",
+          "_id": "68ce4def85ffd708c0df5063",
+          "productionyear": "2022",
+          "programlanguage": "English",
+          "broadcastlanguage": "English",
+          "programmedubbedlanguagename": "English",
+          "programmeurl": "https://dtil.tmsimg.com/assets/p21345047_v_h9_al.jpg?lock=880x660",
+          "programmeid": "MV023217790000",
+          "episode-num": ""
+        },
+        {
+          "title": "Blade Runner 2049",
+          "genre": "Film",
+          "director": "Denis Villeneuve",
+          "start": "2025-09-20T20:42:00Z",
+          "stop": "2025-09-20T23:00:00Z",
+          "desc": "K, an officer with the Los Angeles Police Department, unearths a secret that could create chaos. He goes in search of a former blade runner who has been missing for over three decades.",
+          "date": "20250920",
+          "subgenre": "Thriller",
+          "dubbedlanguageid": "English",
+          "programmescore": "",
+          "seriesnumber": "",
+          "duration": "138",
+          "images": {
+            "landscape": {
+              "880x660": "https://dtil.tmsimg.com/assets/p12565017_v_h9_aa.jpg?lock=880x660",
+              "1280x720": "https://dtil.tmsimg.com/assets/p12565017_v_h10_aa.jpg?lock=1280x720",
+              "744x558": "https://dtil.tmsimg.com/assets/p12565017_v_h9_aa.jpg?lock=880x660",
+              "648x486": "https://dtil.tmsimg.com/assets/p12565017_v_h9_aa.jpg?lock=880x660",
+              "587x440": "https://dtil.tmsimg.com/assets/p12565017_v_h9_aa.jpg?lock=880x660",
+              "500x375": "https://dtil.tmsimg.com/assets/p12565017_v_h9_aa.jpg?lock=880x660",
+              "400x300": "https://dtil.tmsimg.com/assets/p12565017_v_h9_aa.jpg?lock=880x660",
+              "360x270": "https://dtil.tmsimg.com/assets/p12565017_v_h9_aa.jpg?lock=880x660"
+            },
+            "portrait": {
+              "660x880": "https://dtil.tmsimg.com/assets/p12565017_v_v10_ab.jpg?lock=660x880"
+            }
+          },
+          "credits": {
+            "actors": [
+              "Ryan Gosling",
+              "Harrison Ford",
+              "Ana de Armas",
+              "Sylvia Hoeks",
+              "Robin Wright",
+              "Jared Leto",
+              "Mackenzie Davis",
+              "Carla Juri",
+              "Lennie James",
+              "Dave Bautista",
+              "Hiam Abbass",
+              "Barkhad Abdi",
+              "David Dastmalchian",
+              "Wood Harris",
+              "Edward James Olmos"
+            ],
+            "producers": [
+              "Andrew A. Kosove",
+              "Broderick Johnson",
+              "Bud Yorkin",
+              "Cynthia Sikes Yorkin"
+            ],
+            "directors": [
+              "Denis Villeneuve"
+            ]
+          },
+          "regional": {
+            "english": {
+              "languagecode": "en",
+              "title": "Blade Runner 2049",
+              "desc": "K, an officer with the Los Angeles Police Department, unearths a secret that could create chaos. He goes in search of a former blade runner who has been missing for over three decades.",
+              "genre": "Film",
+              "channelname": "Sony Pix",
+              "channellanguage": "English"
+            },
+            "hindi": {
+              "languagecode": "hi",
+              "title": "ब्लेड रनर 2049",
+              "desc": "लॉस एंजिल्स पुलिस विभाग का एक अधिकारी केय, एक ऐसा रहस्य उजागर करता है जो अराजकता पैदा कर सकता है। वह एक पूर्व ब्लेड रनर की तलाश में जाता है जो तीन दशकों से लापता है।",
+              "genre": "फ़िल्म",
+              "channelname": "सोनी पिक्स एसडी",
+              "channellanguage": "अंग्रेज़ी"
+            },
+            "tamil": {
+              "languagecode": "ta",
+              "title": "ப்ளேட் ரன்னர் 2049",
+              "desc": "லாஸ் ஏஞ்சல்ஸ் காவல் துறையின் அதிகாரியான கே, காணாமல் போன ஒரு முன்னாள் பிளேடு ரன்னரைத் தேடிச் செல்கிறார்.",
+              "genre": "??????????",
+              "channelname": "",
+              "channellanguage": ""
+            },
+            "telugu": {
+              "languagecode": "te",
+              "title": "బ్లేడ్ రన్నర్ 2049",
+              "desc": "లాస్ ఏంజిల్స్ పోలీసు శాఖకు చెందిన కే అనే అధికారి, మూడు దశాబ్దాలుగా కనబడకుండాపోయిన మాజీ బ్లేడ్ రన్నర్‌ కోసం వెతుకుతాడు.",
+              "genre": "సినిమా",
+              "channelname": "",
+              "channellanguage": "ఇంగ్లీష్"
+            },
+            "marathi": {
+              "languagecode": "mr",
+              "title": "",
+              "desc": "",
+              "genre": "चित्रपट",
+              "channelname": "",
+              "channellanguage": "इंग्रजी"
+            }
+          },
+          "channelid": "143802",
+          "channelname": "Sony Pix",
+          "channelimage": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Mccia8ek.png",
+          "lcn": "545",
+          "programstart": "2025-09-20T20:42:00.000Z",
+          "programstop": "2025-09-20T23:00:00.000Z",
+          "_id": "68ce4def85ffd708c0df5064",
+          "productionyear": "2017",
+          "programlanguage": "English",
+          "broadcastlanguage": "English",
+          "programmedubbedlanguagename": "English",
+          "programmeurl": "https://dtil.tmsimg.com/assets/p12565017_v_h9_aa.jpg?lock=880x660",
+          "programmeid": "MV021197030000",
+          "episode-num": ""
+        },
+        {
+          "title": "I'm in Love with the Villainess",
+          "genre": "TV Show",
+          "director": "Emily Fajardo",
+          "start": "2025-09-20T23:00:00Z",
+          "stop": "2025-09-20T23:26:00Z",
+          "desc": "Rei Ohashi, an overworked employee, passes away after which she is reincarnated as Rae Taylor, her favourite video game's heroine, and gets attracted to Claire Francois, the main antagonist.",
+          "date": "20250920",
+          "subgenre": "Animation",
+          "dubbedlanguageid": "English",
+          "programmescore": "",
+          "seriesnumber": "",
+          "duration": "26",
+          "images": {
+            "landscape": {
+              "880x660": "https://dtil.tmsimg.com/assets/p25806454_b_h9_aa.jpg?lock=880x660",
+              "1280x720": "https://dtil.tmsimg.com/assets/p25806454_b_h10_aa.jpg?lock=1280x720",
+              "744x558": "https://dtil.tmsimg.com/assets/p25806454_b_h9_aa.jpg?lock=880x660",
+              "648x486": "https://dtil.tmsimg.com/assets/p25806454_b_h9_aa.jpg?lock=880x660",
+              "587x440": "https://dtil.tmsimg.com/assets/p25806454_b_h9_aa.jpg?lock=880x660",
+              "500x375": "https://dtil.tmsimg.com/assets/p25806454_b_h9_aa.jpg?lock=880x660",
+              "400x300": "https://dtil.tmsimg.com/assets/p25806454_b_h9_aa.jpg?lock=880x660",
+              "360x270": "https://dtil.tmsimg.com/assets/p25806454_b_h9_aa.jpg?lock=880x660"
+            },
+            "portrait": {
+              "660x880": "https://dtil.tmsimg.com/assets/p25806454_b_v13_aa.jpg?lock=660x880"
+            }
+          },
+          "credits": {
+            "actors": [
+              "Hannah Alyea",
+              "Lindsay Sheppard",
+              "Abigail Blythe",
+              "Ciaran Strange",
+              "Corey Wilder",
+              "Erin Lundquist",
+              "Kara Edwards",
+              "Marisa Duran",
+              "Oscar Seung",
+              "Bruce Dubose"
+            ],
+            "producers": [
+              "Zach Bolton"
+            ],
+            "directors": [
+              "Emily Fajardo"
+            ]
+          },
+          "regional": {
+            "english": {
+              "languagecode": "en",
+              "title": "I'm in Love with the Villainess",
+              "desc": "Rei Ohashi, an overworked employee, passes away after which she is reincarnated as Rae Taylor, her favourite video game's heroine, and gets attracted to Claire Francois, the main antagonist.",
+              "genre": "TV Show",
+              "channelname": "Sony Pix",
+              "channellanguage": "English"
+            },
+            "hindi": {
+              "languagecode": "hi",
+              "title": "आई एम इन लव विथ द विलेनेस",
+              "desc": "",
+              "genre": "टीवी कार्यक्रम",
+              "channelname": "सोनी पिक्स एसडी",
+              "channellanguage": "अंग्रेज़ी"
+            },
+            "tamil": {
+              "languagecode": "ta",
+              "title": "அய'ம் இன் லவ் வித் தி வில்லன்னெஸ்",
+              "desc": "ரெய் ஒஹாஷி இறந்து, தனக்குப் பிடித்த கதாநாயகி ரே டெய்லராக மறுபிறவி எடுக்கிறார் மேலும் எதிரியான கிளாரியிடம் வயப்படுகிறார்.",
+              "genre": "தொலைக்காட்சி நிகழ்ச்சி",
+              "channelname": "",
+              "channellanguage": ""
+            },
+            "telugu": {
+              "languagecode": "te",
+              "title": "",
+              "desc": "",
+              "genre": "టీవీ కార్య‌క్ర‌మం",
+              "channelname": "",
+              "channellanguage": "ఇంగ్లీష్"
+            },
+            "marathi": {
+              "languagecode": "mr",
+              "title": "आय अॅम इन लव विथ द विलनेस",
+              "desc": "",
+              "genre": "टीव्ही कार्यक्रम",
+              "channelname": "",
+              "channellanguage": "इंग्रजी"
+            }
+          },
+          "channelid": "143802",
+          "channelname": "Sony Pix",
+          "channelimage": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Mccia8ek.png",
+          "lcn": "545",
+          "programstart": "2025-09-20T23:00:00.000Z",
+          "programstop": "2025-09-20T23:26:00.000Z",
+          "_id": "68ce4def85ffd708c0df5065",
+          "productionyear": "0",
+          "programlanguage": "Japanese",
+          "broadcastlanguage": "English",
+          "programmedubbedlanguagename": "English",
+          "programmeurl": "https://dtil.tmsimg.com/assets/p25806454_b_h9_aa.jpg?lock=880x660",
+          "programmeid": "SH058298610000",
+          "episode-num": ""
+        },
+        {
+          "title": "Mobile Suit Gundam: The Witch From Mercury",
+          "genre": "TV Show",
+          "director": "Hiroshi Kobayashi",
+          "start": "2025-09-20T23:26:00Z",
+          "stop": "2025-09-20T23:51:00Z",
+          "desc": "A reserved student from a distant planet enters an elite academy where mecha duels and corporate agendas collide in a battle for power and survival.",
+          "date": "20250920",
+          "subgenre": "Animation",
+          "dubbedlanguageid": "English",
+          "programmescore": "",
+          "seriesnumber": "",
+          "duration": "25",
+          "images": {
+            "landscape": {
+              "880x660": "https://dtil.tmsimg.com/assets/p22907872_b_h9_af.jpg?lock=880x660",
+              "1280x720": "https://dtil.tmsimg.com/assets/p22907872_b_h8_af.jpg?lock=1280x720",
+              "744x558": "https://dtil.tmsimg.com/assets/p22907872_b_h9_af.jpg?lock=880x660",
+              "648x486": "https://dtil.tmsimg.com/assets/p22907872_b_h9_af.jpg?lock=880x660",
+              "587x440": "https://dtil.tmsimg.com/assets/p22907872_b_h9_af.jpg?lock=880x660",
+              "500x375": "https://dtil.tmsimg.com/assets/p22907872_b_h9_af.jpg?lock=880x660",
+              "400x300": "https://dtil.tmsimg.com/assets/p22907872_b_h9_af.jpg?lock=880x660",
+              "360x270": "https://dtil.tmsimg.com/assets/p22907872_b_h9_af.jpg?lock=880x660"
+            },
+            "portrait": {
+              "660x880": "https://dtil.tmsimg.com/assets/p22907872_b_v13_af.jpg?lock=660x880"
+            }
+          },
+          "credits": {
+            "actors": [
+              "Kana Ichinose",
+              "Lynn",
+              "Yōhei Azakami",
+              "Natsuki Hanae",
+              "Makoto Furukawa",
+              "Yume Miyamoto"
+            ],
+            "producers": [],
+            "directors": [
+              "Hiroshi Kobayashi"
+            ]
+          },
+          "regional": {
+            "english": {
+              "languagecode": "en",
+              "title": "Mobile Suit Gundam: The Witch From Mercury",
+              "desc": "A reserved student from a distant planet enters an elite academy where mecha duels and corporate agendas collide in a battle for power and survival.",
+              "genre": "TV Show",
+              "channelname": "Sony Pix",
+              "channellanguage": "English"
+            },
+            "hindi": {
+              "languagecode": "hi",
+              "title": "मोबाइल सूट गुंडम: द विच फ्रॉम मर्क्युरी",
+              "desc": "",
+              "genre": "टीवी कार्यक्रम",
+              "channelname": "सोनी पिक्स एसडी",
+              "channellanguage": "अंग्रेज़ी"
+            },
+            "tamil": {
+              "languagecode": "ta",
+              "title": "",
+              "desc": "",
+              "genre": "தொலைக்காட்சி நிகழ்ச்சி",
+              "channelname": "",
+              "channellanguage": ""
+            },
+            "telugu": {
+              "languagecode": "te",
+              "title": "",
+              "desc": "",
+              "genre": "టీవీ కార్య‌క్ర‌మం",
+              "channelname": "",
+              "channellanguage": "ఇంగ్లీష్"
+            },
+            "marathi": {
+              "languagecode": "mr",
+              "title": "मोबाइल सूट गंडम: द विच फ्रॉम मर्क्युरी",
+              "desc": "",
+              "genre": "टीव्ही कार्यक्रम",
+              "channelname": "",
+              "channellanguage": "इंग्रजी"
+            }
+          },
+          "channelid": "143802",
+          "channelname": "Sony Pix",
+          "channelimage": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Mccia8ek.png",
+          "lcn": "545",
+          "programstart": "2025-09-20T23:26:00.000Z",
+          "programstop": "2025-09-20T23:51:00.000Z",
+          "_id": "68ce4def85ffd708c0df5066",
+          "productionyear": "0",
+          "programlanguage": "Japanese",
+          "broadcastlanguage": "English",
+          "programmedubbedlanguagename": "English",
+          "programmeurl": "https://dtil.tmsimg.com/assets/p22907872_b_h9_af.jpg?lock=880x660",
+          "programmeid": "SH058553780000",
+          "episode-num": ""
+        },
+        {
+          "title": "Mobile Suit Gundam: The Witch From Mercury",
+          "genre": "TV Show",
+          "director": "Hiroshi Kobayashi",
+          "start": "2025-09-20T23:51:00Z",
+          "stop": "2025-09-21T00:17:00Z",
+          "desc": "A reserved student from a distant planet enters an elite academy where mecha duels and corporate agendas collide in a battle for power and survival.",
+          "date": "20250920",
+          "subgenre": "Animation",
+          "dubbedlanguageid": "English",
+          "programmescore": "",
+          "seriesnumber": "",
+          "duration": "26",
+          "images": {
+            "landscape": {
+              "880x660": "https://dtil.tmsimg.com/assets/p22907872_b_h9_af.jpg?lock=880x660",
+              "1280x720": "https://dtil.tmsimg.com/assets/p22907872_b_h8_af.jpg?lock=1280x720",
+              "744x558": "https://dtil.tmsimg.com/assets/p22907872_b_h9_af.jpg?lock=880x660",
+              "648x486": "https://dtil.tmsimg.com/assets/p22907872_b_h9_af.jpg?lock=880x660",
+              "587x440": "https://dtil.tmsimg.com/assets/p22907872_b_h9_af.jpg?lock=880x660",
+              "500x375": "https://dtil.tmsimg.com/assets/p22907872_b_h9_af.jpg?lock=880x660",
+              "400x300": "https://dtil.tmsimg.com/assets/p22907872_b_h9_af.jpg?lock=880x660",
+              "360x270": "https://dtil.tmsimg.com/assets/p22907872_b_h9_af.jpg?lock=880x660"
+            },
+            "portrait": {
+              "660x880": "https://dtil.tmsimg.com/assets/p22907872_b_v13_af.jpg?lock=660x880"
+            }
+          },
+          "credits": {
+            "actors": [
+              "Kana Ichinose",
+              "Lynn",
+              "Yōhei Azakami",
+              "Natsuki Hanae",
+              "Makoto Furukawa",
+              "Yume Miyamoto"
+            ],
+            "producers": [],
+            "directors": [
+              "Hiroshi Kobayashi"
+            ]
+          },
+          "regional": {
+            "english": {
+              "languagecode": "en",
+              "title": "Mobile Suit Gundam: The Witch From Mercury",
+              "desc": "A reserved student from a distant planet enters an elite academy where mecha duels and corporate agendas collide in a battle for power and survival.",
+              "genre": "TV Show",
+              "channelname": "Sony Pix",
+              "channellanguage": "English"
+            },
+            "hindi": {
+              "languagecode": "hi",
+              "title": "मोबाइल सूट गुंडम: द विच फ्रॉम मर्क्युरी",
+              "desc": "",
+              "genre": "टीवी कार्यक्रम",
+              "channelname": "सोनी पिक्स एसडी",
+              "channellanguage": "अंग्रेज़ी"
+            },
+            "tamil": {
+              "languagecode": "ta",
+              "title": "",
+              "desc": "",
+              "genre": "தொலைக்காட்சி நிகழ்ச்சி",
+              "channelname": "",
+              "channellanguage": ""
+            },
+            "telugu": {
+              "languagecode": "te",
+              "title": "",
+              "desc": "",
+              "genre": "టీవీ కార్య‌క్ర‌మం",
+              "channelname": "",
+              "channellanguage": "ఇంగ్లీష్"
+            },
+            "marathi": {
+              "languagecode": "mr",
+              "title": "मोबाइल सूट गंडम: द विच फ्रॉम मर्क्युरी",
+              "desc": "",
+              "genre": "टीव्ही कार्यक्रम",
+              "channelname": "",
+              "channellanguage": "इंग्रजी"
+            }
+          },
+          "channelid": "143802",
+          "channelname": "Sony Pix",
+          "channelimage": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Mccia8ek.png",
+          "lcn": "545",
+          "programstart": "2025-09-20T23:51:00.000Z",
+          "programstop": "2025-09-21T00:17:00.000Z",
+          "_id": "68ce4def85ffd708c0df5067",
+          "productionyear": "0",
+          "programlanguage": "Japanese",
+          "broadcastlanguage": "English",
+          "programmedubbedlanguagename": "English",
+          "programmeurl": "https://dtil.tmsimg.com/assets/p22907872_b_h9_af.jpg?lock=880x660",
+          "programmeid": "SH058553780000",
+          "episode-num": ""
+        },
+        {
+          "title": "Life",
+          "genre": "Film",
+          "director": "Daniel Espinosa",
+          "start": "2025-09-21T00:17:00Z",
+          "stop": "2025-09-21T01:52:00Z",
+          "desc": "As astronauts discover the first evidence of extra-terrestrial life on Mars, they begin realising that the life form is extremely intelligent and hostile.",
+          "date": "20250921",
+          "subgenre": "Thriller",
+          "dubbedlanguageid": "English",
+          "programmescore": "",
+          "seriesnumber": "",
+          "duration": "95",
+          "images": {
+            "landscape": {
+              "880x660": "https://dtil.tmsimg.com/assets/p13458606_v_h9_ab.jpg?lock=880x660",
+              "1280x720": "https://dtil.tmsimg.com/assets/p13458606_v_h8_ad.jpg?lock=1280x720",
+              "744x558": "https://dtil.tmsimg.com/assets/p13458606_v_h9_ab.jpg?lock=880x660",
+              "648x486": "https://dtil.tmsimg.com/assets/p13458606_v_h9_ab.jpg?lock=880x660",
+              "587x440": "https://dtil.tmsimg.com/assets/p13458606_v_h9_ab.jpg?lock=880x660",
+              "500x375": "https://dtil.tmsimg.com/assets/p13458606_v_h9_ab.jpg?lock=880x660",
+              "400x300": "https://dtil.tmsimg.com/assets/p13458606_v_h9_ab.jpg?lock=880x660",
+              "360x270": "https://dtil.tmsimg.com/assets/p13458606_v_h9_ab.jpg?lock=880x660"
+            },
+            "portrait": {
+              "660x880": "https://dtil.tmsimg.com/assets/p13458606_v_v10_ae.jpg?lock=660x880"
+            }
+          },
+          "credits": {
+            "actors": [
+              "Jake Gyllenhaal",
+              "Rebecca Ferguson",
+              "Ryan Reynolds",
+              "Hiroyuki Sanada",
+              "Ariyon Bakare",
+              "Olga Dihovichnaya",
+              "Alexandre N'guyen",
+              "Camiel Warren-Taylor"
+            ],
+            "producers": [
+              "David Ellison",
+              "Dana Goldberg",
+              "Bonnie Curtis",
+              "Julie Lynn"
+            ],
+            "directors": [
+              "Daniel Espinosa"
+            ]
+          },
+          "regional": {
+            "english": {
+              "languagecode": "en",
+              "title": "Life",
+              "desc": "As astronauts discover the first evidence of extra-terrestrial life on Mars, they begin realising that the life form is extremely intelligent and hostile.",
+              "genre": "Film",
+              "channelname": "Sony Pix",
+              "channellanguage": "English"
+            },
+            "hindi": {
+              "languagecode": "hi",
+              "title": "लाइफ",
+              "desc": "अंतरिक्ष यात्रियों को मंगल ग्रह पर बाह्य-स्थलीय जीवन के प्रथम साक्ष्य मिलते हैं, तव उन्हें यह अहसास होने लगता है कि यह जीवन अत्यंत बुद्धिमान और शत्रुतापूर्ण है।",
+              "genre": "फ़िल्म",
+              "channelname": "सोनी पिक्स एसडी",
+              "channellanguage": "अंग्रेज़ी"
+            },
+            "tamil": {
+              "languagecode": "ta",
+              "title": "லைஃப்",
+              "desc": "விண்வெளி வீரர்கள் செவ்வாய் கிரகத்தில் மிகவும் அறிவாற்றலை கொண்ட வேற்றுகிரக ஜீவன் இருக்கும் ஆதாரங்களை கண்டுபிடிக்கின்றனர்.",
+              "genre": "??????????",
+              "channelname": "",
+              "channellanguage": ""
+            },
+            "telugu": {
+              "languagecode": "te",
+              "title": "లైఫ్",
+              "desc": "వ్యోమగాములు అంగారక గ్రహంపై అదనపు భూగోళ జీవానికి సంబంధించిన మొదటి సాక్ష్యాలను కనుగొని,ఆ జీవం చాలా తెలివైనదని గ్రహిస్తారు.",
+              "genre": "సినిమా",
+              "channelname": "",
+              "channellanguage": "ఇంగ్లీష్"
+            },
+            "marathi": {
+              "languagecode": "mr",
+              "title": "",
+              "desc": "",
+              "genre": "चित्रपट",
+              "channelname": "",
+              "channellanguage": "इंग्रजी"
+            }
+          },
+          "channelid": "143802",
+          "channelname": "Sony Pix",
+          "channelimage": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Mccia8ek.png",
+          "lcn": "545",
+          "programstart": "2025-09-21T00:17:00.000Z",
+          "programstop": "2025-09-21T01:52:00.000Z",
+          "_id": "68ce4def85ffd708c0df5068",
+          "productionyear": "2017",
+          "programlanguage": "English",
+          "broadcastlanguage": "English",
+          "programmedubbedlanguagename": "English",
+          "programmeurl": "https://dtil.tmsimg.com/assets/p13458606_v_h9_ab.jpg?lock=880x660",
+          "programmeid": "MV022316790000",
+          "episode-num": ""
+        },
+        {
+          "title": "Captain Phillips",
+          "genre": "Film",
+          "director": "Paul Greengrass",
+          "start": "2025-09-21T01:52:00Z",
+          "stop": "2025-09-21T04:04:00Z",
+          "desc": "Somali pirates attack the Maersk Alabama, a container ship, while it is on its course to Kenya. Richard Phillips, the captain of the ship, uses his wits to negotiate with them to save his crew.",
+          "date": "20250921",
+          "subgenre": "Thriller",
+          "dubbedlanguageid": "English",
+          "programmescore": "",
+          "seriesnumber": "",
+          "duration": "132",
+          "images": {
+            "landscape": {
+              "880x660": "https://dtil.tmsimg.com/assets/p9968629_v_h9_ak.jpg?lock=880x660",
+              "1280x720": "https://dtil.tmsimg.com/assets/p9968629_v_h8_ak.jpg?lock=1280x720",
+              "744x558": "https://dtil.tmsimg.com/assets/p9968629_v_h9_ak.jpg?lock=880x660",
+              "648x486": "https://dtil.tmsimg.com/assets/p9968629_v_h9_ak.jpg?lock=880x660",
+              "587x440": "https://dtil.tmsimg.com/assets/p9968629_v_h9_ak.jpg?lock=880x660",
+              "500x375": "https://dtil.tmsimg.com/assets/p9968629_v_h9_ak.jpg?lock=880x660",
+              "400x300": "https://dtil.tmsimg.com/assets/p9968629_v_h9_ak.jpg?lock=880x660",
+              "360x270": "https://dtil.tmsimg.com/assets/p9968629_v_h9_ak.jpg?lock=880x660"
+            },
+            "portrait": {
+              "660x880": "https://dtil.tmsimg.com/assets/p9968629_v_v10_ad.jpg?lock=660x880"
+            }
+          },
+          "credits": {
+            "actors": [
+              "Tom Hanks",
+              "Catherine Keener",
+              "Barkhad Abdi",
+              "Barkhad Abdirahman",
+              "Faysal Ahmed",
+              "Mahat M. Ali",
+              "Michael Chernus",
+              "Corey Johnson",
+              "Max Martini",
+              "Chris Mulkey",
+              "Yul Vazquez",
+              "David Warshofsky",
+              "Omar Berdouni",
+              "Mohamed Ali",
+              "Issak Farah Samatar"
+            ],
+            "producers": [
+              "Scott Rudin",
+              "Dana Brunetti",
+              "Michael De Luca"
+            ],
+            "directors": [
+              "Paul Greengrass"
+            ]
+          },
+          "regional": {
+            "english": {
+              "languagecode": "en",
+              "title": "Captain Phillips",
+              "desc": "Somali pirates attack the Maersk Alabama, a container ship, while it is on its course to Kenya. Richard Phillips, the captain of the ship, uses his wits to negotiate with them to save his crew.",
+              "genre": "Film",
+              "channelname": "Sony Pix",
+              "channellanguage": "English"
+            },
+            "hindi": {
+              "languagecode": "hi",
+              "title": "कैप्टन फिलिप्स",
+              "desc": "",
+              "genre": "फ़िल्म",
+              "channelname": "सोनी पिक्स एसडी",
+              "channellanguage": "अंग्रेज़ी"
+            },
+            "tamil": {
+              "languagecode": "ta",
+              "title": "கேப்டன் ஃபிலிப்ஸ்",
+              "desc": "கென்யாவுக்கு செல்லுகையில் கொள்கலன் கப்பலை கடத்தி,கேப்டன் ரிச்சர்டை பணத்திற்க்காக பணயம்வைக்கும் சோமாலிய கடற்கொள்ளையர்கள்.",
+              "genre": "??????????",
+              "channelname": "",
+              "channellanguage": ""
+            },
+            "telugu": {
+              "languagecode": "te",
+              "title": "కెప్టెన్ ఫిలిప్స్",
+              "desc": "సోమాలీ సముద్రదొంగలు ఓడని చేజిక్కించుకున్నపుడు కెప్టెన్ రిచర్డ్ తన సిబ్బందిని కాపాడటానికి వారితో చర్చలు జరుపుతాడు.",
+              "genre": "సినిమా",
+              "channelname": "",
+              "channellanguage": "ఇంగ్లీష్"
+            },
+            "marathi": {
+              "languagecode": "mr",
+              "title": "कॅप्टन फिलिप्स",
+              "desc": "",
+              "genre": "चित्रपट",
+              "channelname": "",
+              "channellanguage": "इंग्रजी"
+            }
+          },
+          "channelid": "143802",
+          "channelname": "Sony Pix",
+          "channelimage": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Mccia8ek.png",
+          "lcn": "545",
+          "programstart": "2025-09-21T01:52:00.000Z",
+          "programstop": "2025-09-21T04:04:00.000Z",
+          "_id": "68ce4def85ffd708c0df5069",
+          "productionyear": "2013",
+          "programlanguage": "English",
+          "broadcastlanguage": "English",
+          "programmedubbedlanguagename": "English",
+          "programmeurl": "https://dtil.tmsimg.com/assets/p9968629_v_h9_ak.jpg?lock=880x660",
+          "programmeid": "MV022316480000",
+          "episode-num": ""
+        },
+        {
+          "title": "Movie",
+          "genre": "TV Show",
+          "director": "",
+          "start": "2025-09-21T04:04:00Z",
+          "stop": "2025-09-21T06:00:00Z",
+          "desc": "This is TV Show - Entertainment Category",
+          "date": "20250921",
+          "subgenre": "Entertainment",
+          "dubbedlanguageid": "English",
+          "programmescore": "",
+          "seriesnumber": "",
+          "duration": "116",
+          "images": {
+            "landscape": {
+              "880x660": "https://dtil.tmsimg.com/assets/p12971380_b_h9_ad.jpg?lock=880x660",
+              "1280x720": "https://dtil.tmsimg.com/assets/p12971380_b_h8_ae.jpg?lock=1280x720",
+              "744x558": "https://dtil.tmsimg.com/assets/p12971380_b_h9_ad.jpg?lock=880x660",
+              "648x486": "https://dtil.tmsimg.com/assets/p12971380_b_h9_ad.jpg?lock=880x660",
+              "587x440": "https://dtil.tmsimg.com/assets/p12971380_b_h9_ad.jpg?lock=880x660",
+              "500x375": "https://dtil.tmsimg.com/assets/p12971380_b_h9_ad.jpg?lock=880x660",
+              "400x300": "https://dtil.tmsimg.com/assets/p12971380_b_h9_ad.jpg?lock=880x660",
+              "360x270": "https://dtil.tmsimg.com/assets/p12971380_b_h9_ad.jpg?lock=880x660"
+            },
+            "portrait": {
+              "660x880": "https://dtil.tmsimg.com/assets/p12971380_b_v13_ad.jpg?lock=660x880"
+            }
+          },
+          "credits": {
+            "actors": [],
+            "producers": [],
+            "directors": []
+          },
+          "regional": {
+            "english": {
+              "languagecode": "en",
+              "title": "Movie",
+              "desc": "This is TV Show - Entertainment Category",
+              "genre": "TV Show",
+              "channelname": "Sony Pix",
+              "channellanguage": "English"
+            },
+            "hindi": {
+              "languagecode": "hi",
+              "title": "मूवी",
+              "desc": "",
+              "genre": "टीवी कार्यक्रम",
+              "channelname": "सोनी पिक्स एसडी",
+              "channellanguage": "अंग्रेज़ी"
+            },
+            "tamil": {
+              "languagecode": "ta",
+              "title": "மூவி",
+              "desc": "",
+              "genre": "தொலைக்காட்சி நிகழ்ச்சி",
+              "channelname": "",
+              "channellanguage": ""
+            },
+            "telugu": {
+              "languagecode": "te",
+              "title": "మూవీ",
+              "desc": "",
+              "genre": "టీవీ కార్య‌క్ర‌మం",
+              "channelname": "",
+              "channellanguage": "ఇంగ్లీష్"
+            },
+            "marathi": {
+              "languagecode": "mr",
+              "title": "मूव्ही",
+              "desc": "",
+              "genre": "टीव्ही कार्यक्रम",
+              "channelname": "",
+              "channellanguage": "इंग्रजी"
+            }
+          },
+          "channelid": "143802",
+          "channelname": "Sony Pix",
+          "channelimage": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Mccia8ek.png",
+          "lcn": "545",
+          "programstart": "2025-09-21T04:04:00.000Z",
+          "programstop": "2025-09-21T06:00:00.000Z",
+          "_id": "68ce4def85ffd708c0df506a",
+          "productionyear": "0",
+          "programlanguage": "English",
+          "broadcastlanguage": "English",
+          "programmedubbedlanguagename": "English",
+          "programmeurl": "https://dtil.tmsimg.com/assets/p12971380_b_h9_ad.jpg?lock=880x660",
+          "programmeid": "SH050303390000",
+          "episode-num": ""
+        },
+        {
+          "title": "Movie",
+          "genre": "TV Show",
+          "director": "",
+          "start": "2025-09-21T06:00:00Z",
+          "stop": "2025-09-21T09:00:00Z",
+          "desc": "This is TV Show - Entertainment Category",
+          "date": "20250921",
+          "subgenre": "Entertainment",
+          "dubbedlanguageid": "English",
+          "programmescore": "",
+          "seriesnumber": "",
+          "duration": "180",
+          "images": {
+            "landscape": {
+              "880x660": "https://dtil.tmsimg.com/assets/p12971380_b_h9_ad.jpg?lock=880x660",
+              "1280x720": "https://dtil.tmsimg.com/assets/p12971380_b_h8_ae.jpg?lock=1280x720",
+              "744x558": "https://dtil.tmsimg.com/assets/p12971380_b_h9_ad.jpg?lock=880x660",
+              "648x486": "https://dtil.tmsimg.com/assets/p12971380_b_h9_ad.jpg?lock=880x660",
+              "587x440": "https://dtil.tmsimg.com/assets/p12971380_b_h9_ad.jpg?lock=880x660",
+              "500x375": "https://dtil.tmsimg.com/assets/p12971380_b_h9_ad.jpg?lock=880x660",
+              "400x300": "https://dtil.tmsimg.com/assets/p12971380_b_h9_ad.jpg?lock=880x660",
+              "360x270": "https://dtil.tmsimg.com/assets/p12971380_b_h9_ad.jpg?lock=880x660"
+            },
+            "portrait": {
+              "660x880": "https://dtil.tmsimg.com/assets/p12971380_b_v13_ad.jpg?lock=660x880"
+            }
+          },
+          "credits": {
+            "actors": [],
+            "producers": [],
+            "directors": []
+          },
+          "regional": {
+            "english": {
+              "languagecode": "en",
+              "title": "Movie",
+              "desc": "This is TV Show - Entertainment Category",
+              "genre": "TV Show",
+              "channelname": "Sony Pix",
+              "channellanguage": "English"
+            },
+            "hindi": {
+              "languagecode": "hi",
+              "title": "मूवी",
+              "desc": "",
+              "genre": "टीवी कार्यक्रम",
+              "channelname": "सोनी पिक्स एसडी",
+              "channellanguage": "अंग्रेज़ी"
+            },
+            "tamil": {
+              "languagecode": "ta",
+              "title": "மூவி",
+              "desc": "",
+              "genre": "தொலைக்காட்சி நிகழ்ச்சி",
+              "channelname": "",
+              "channellanguage": ""
+            },
+            "telugu": {
+              "languagecode": "te",
+              "title": "మూవీ",
+              "desc": "",
+              "genre": "టీవీ కార్య‌క్ర‌మం",
+              "channelname": "",
+              "channellanguage": "ఇంగ్లీష్"
+            },
+            "marathi": {
+              "languagecode": "mr",
+              "title": "मूव्ही",
+              "desc": "",
+              "genre": "टीव्ही कार्यक्रम",
+              "channelname": "",
+              "channellanguage": "इंग्रजी"
+            }
+          },
+          "channelid": "143802",
+          "channelname": "Sony Pix",
+          "channelimage": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Mccia8ek.png",
+          "lcn": "545",
+          "programstart": "2025-09-21T06:00:00.000Z",
+          "programstop": "2025-09-21T09:00:00.000Z",
+          "_id": "68ce4def85ffd708c0df506b",
+          "productionyear": "0",
+          "programlanguage": "English",
+          "broadcastlanguage": "English",
+          "programmedubbedlanguagename": "English",
+          "programmeurl": "https://dtil.tmsimg.com/assets/p12971380_b_h9_ad.jpg?lock=880x660",
+          "programmeid": "SH050303390000",
+          "episode-num": ""
+        },
+        {
+          "title": "Movie",
+          "genre": "TV Show",
+          "director": "",
+          "start": "2025-09-21T09:00:00Z",
+          "stop": "2025-09-21T12:00:00Z",
+          "desc": "This is TV Show - Entertainment Category",
+          "date": "20250921",
+          "subgenre": "Entertainment",
+          "dubbedlanguageid": "English",
+          "programmescore": "",
+          "seriesnumber": "",
+          "duration": "180",
+          "images": {
+            "landscape": {
+              "880x660": "https://dtil.tmsimg.com/assets/p12971380_b_h9_ad.jpg?lock=880x660",
+              "1280x720": "https://dtil.tmsimg.com/assets/p12971380_b_h8_ae.jpg?lock=1280x720",
+              "744x558": "https://dtil.tmsimg.com/assets/p12971380_b_h9_ad.jpg?lock=880x660",
+              "648x486": "https://dtil.tmsimg.com/assets/p12971380_b_h9_ad.jpg?lock=880x660",
+              "587x440": "https://dtil.tmsimg.com/assets/p12971380_b_h9_ad.jpg?lock=880x660",
+              "500x375": "https://dtil.tmsimg.com/assets/p12971380_b_h9_ad.jpg?lock=880x660",
+              "400x300": "https://dtil.tmsimg.com/assets/p12971380_b_h9_ad.jpg?lock=880x660",
+              "360x270": "https://dtil.tmsimg.com/assets/p12971380_b_h9_ad.jpg?lock=880x660"
+            },
+            "portrait": {
+              "660x880": "https://dtil.tmsimg.com/assets/p12971380_b_v13_ad.jpg?lock=660x880"
+            }
+          },
+          "credits": {
+            "actors": [],
+            "producers": [],
+            "directors": []
+          },
+          "regional": {
+            "english": {
+              "languagecode": "en",
+              "title": "Movie",
+              "desc": "This is TV Show - Entertainment Category",
+              "genre": "TV Show",
+              "channelname": "Sony Pix",
+              "channellanguage": "English"
+            },
+            "hindi": {
+              "languagecode": "hi",
+              "title": "मूवी",
+              "desc": "",
+              "genre": "टीवी कार्यक्रम",
+              "channelname": "सोनी पिक्स एसडी",
+              "channellanguage": "अंग्रेज़ी"
+            },
+            "tamil": {
+              "languagecode": "ta",
+              "title": "மூவி",
+              "desc": "",
+              "genre": "தொலைக்காட்சி நிகழ்ச்சி",
+              "channelname": "",
+              "channellanguage": ""
+            },
+            "telugu": {
+              "languagecode": "te",
+              "title": "మూవీ",
+              "desc": "",
+              "genre": "టీవీ కార్య‌క్ర‌మం",
+              "channelname": "",
+              "channellanguage": "ఇంగ్లీష్"
+            },
+            "marathi": {
+              "languagecode": "mr",
+              "title": "मूव्ही",
+              "desc": "",
+              "genre": "टीव्ही कार्यक्रम",
+              "channelname": "",
+              "channellanguage": "इंग्रजी"
+            }
+          },
+          "channelid": "143802",
+          "channelname": "Sony Pix",
+          "channelimage": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Mccia8ek.png",
+          "lcn": "545",
+          "programstart": "2025-09-21T09:00:00.000Z",
+          "programstop": "2025-09-21T12:00:00.000Z",
+          "_id": "68ce4def85ffd708c0df506c",
+          "productionyear": "0",
+          "programlanguage": "English",
+          "broadcastlanguage": "English",
+          "programmedubbedlanguagename": "English",
+          "programmeurl": "https://dtil.tmsimg.com/assets/p12971380_b_h9_ad.jpg?lock=880x660",
+          "programmeid": "SH050303390000",
+          "episode-num": ""
+        },
+        {
+          "title": "Movie",
+          "genre": "TV Show",
+          "director": "",
+          "start": "2025-09-21T12:00:00Z",
+          "stop": "2025-09-21T15:00:00Z",
+          "desc": "This is TV Show - Entertainment Category",
+          "date": "20250921",
+          "subgenre": "Entertainment",
+          "dubbedlanguageid": "English",
+          "programmescore": "",
+          "seriesnumber": "",
+          "duration": "180",
+          "images": {
+            "landscape": {
+              "880x660": "https://dtil.tmsimg.com/assets/p12971380_b_h9_ad.jpg?lock=880x660",
+              "1280x720": "https://dtil.tmsimg.com/assets/p12971380_b_h8_ae.jpg?lock=1280x720",
+              "744x558": "https://dtil.tmsimg.com/assets/p12971380_b_h9_ad.jpg?lock=880x660",
+              "648x486": "https://dtil.tmsimg.com/assets/p12971380_b_h9_ad.jpg?lock=880x660",
+              "587x440": "https://dtil.tmsimg.com/assets/p12971380_b_h9_ad.jpg?lock=880x660",
+              "500x375": "https://dtil.tmsimg.com/assets/p12971380_b_h9_ad.jpg?lock=880x660",
+              "400x300": "https://dtil.tmsimg.com/assets/p12971380_b_h9_ad.jpg?lock=880x660",
+              "360x270": "https://dtil.tmsimg.com/assets/p12971380_b_h9_ad.jpg?lock=880x660"
+            },
+            "portrait": {
+              "660x880": "https://dtil.tmsimg.com/assets/p12971380_b_v13_ad.jpg?lock=660x880"
+            }
+          },
+          "credits": {
+            "actors": [],
+            "producers": [],
+            "directors": []
+          },
+          "regional": {
+            "english": {
+              "languagecode": "en",
+              "title": "Movie",
+              "desc": "This is TV Show - Entertainment Category",
+              "genre": "TV Show",
+              "channelname": "Sony Pix",
+              "channellanguage": "English"
+            },
+            "hindi": {
+              "languagecode": "hi",
+              "title": "मूवी",
+              "desc": "",
+              "genre": "टीवी कार्यक्रम",
+              "channelname": "सोनी पिक्स एसडी",
+              "channellanguage": "अंग्रेज़ी"
+            },
+            "tamil": {
+              "languagecode": "ta",
+              "title": "மூவி",
+              "desc": "",
+              "genre": "தொலைக்காட்சி நிகழ்ச்சி",
+              "channelname": "",
+              "channellanguage": ""
+            },
+            "telugu": {
+              "languagecode": "te",
+              "title": "మూవీ",
+              "desc": "",
+              "genre": "టీవీ కార్య‌క్ర‌మం",
+              "channelname": "",
+              "channellanguage": "ఇంగ్లీష్"
+            },
+            "marathi": {
+              "languagecode": "mr",
+              "title": "मूव्ही",
+              "desc": "",
+              "genre": "टीव्ही कार्यक्रम",
+              "channelname": "",
+              "channellanguage": "इंग्रजी"
+            }
+          },
+          "channelid": "143802",
+          "channelname": "Sony Pix",
+          "channelimage": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Mccia8ek.png",
+          "lcn": "545",
+          "programstart": "2025-09-21T12:00:00.000Z",
+          "programstop": "2025-09-21T15:00:00.000Z",
+          "_id": "68ce4def85ffd708c0df506d",
+          "productionyear": "0",
+          "programlanguage": "English",
+          "broadcastlanguage": "English",
+          "programmedubbedlanguagename": "English",
+          "programmeurl": "https://dtil.tmsimg.com/assets/p12971380_b_h9_ad.jpg?lock=880x660",
+          "programmeid": "SH050303390000",
+          "episode-num": ""
+        },
+        {
+          "title": "Movie",
+          "genre": "TV Show",
+          "director": "",
+          "start": "2025-09-21T15:00:00Z",
+          "stop": "2025-09-21T18:00:00Z",
+          "desc": "This is TV Show - Entertainment Category",
+          "date": "20250921",
+          "subgenre": "Entertainment",
+          "dubbedlanguageid": "English",
+          "programmescore": "",
+          "seriesnumber": "",
+          "duration": "180",
+          "images": {
+            "landscape": {
+              "880x660": "https://dtil.tmsimg.com/assets/p12971380_b_h9_ad.jpg?lock=880x660",
+              "1280x720": "https://dtil.tmsimg.com/assets/p12971380_b_h8_ae.jpg?lock=1280x720",
+              "744x558": "https://dtil.tmsimg.com/assets/p12971380_b_h9_ad.jpg?lock=880x660",
+              "648x486": "https://dtil.tmsimg.com/assets/p12971380_b_h9_ad.jpg?lock=880x660",
+              "587x440": "https://dtil.tmsimg.com/assets/p12971380_b_h9_ad.jpg?lock=880x660",
+              "500x375": "https://dtil.tmsimg.com/assets/p12971380_b_h9_ad.jpg?lock=880x660",
+              "400x300": "https://dtil.tmsimg.com/assets/p12971380_b_h9_ad.jpg?lock=880x660",
+              "360x270": "https://dtil.tmsimg.com/assets/p12971380_b_h9_ad.jpg?lock=880x660"
+            },
+            "portrait": {
+              "660x880": "https://dtil.tmsimg.com/assets/p12971380_b_v13_ad.jpg?lock=660x880"
+            }
+          },
+          "credits": {
+            "actors": [],
+            "producers": [],
+            "directors": []
+          },
+          "regional": {
+            "english": {
+              "languagecode": "en",
+              "title": "Movie",
+              "desc": "This is TV Show - Entertainment Category",
+              "genre": "TV Show",
+              "channelname": "Sony Pix",
+              "channellanguage": "English"
+            },
+            "hindi": {
+              "languagecode": "hi",
+              "title": "मूवी",
+              "desc": "",
+              "genre": "टीवी कार्यक्रम",
+              "channelname": "सोनी पिक्स एसडी",
+              "channellanguage": "अंग्रेज़ी"
+            },
+            "tamil": {
+              "languagecode": "ta",
+              "title": "மூவி",
+              "desc": "",
+              "genre": "தொலைக்காட்சி நிகழ்ச்சி",
+              "channelname": "",
+              "channellanguage": ""
+            },
+            "telugu": {
+              "languagecode": "te",
+              "title": "మూవీ",
+              "desc": "",
+              "genre": "టీవీ కార్య‌క్ర‌మం",
+              "channelname": "",
+              "channellanguage": "ఇంగ్లీష్"
+            },
+            "marathi": {
+              "languagecode": "mr",
+              "title": "मूव्ही",
+              "desc": "",
+              "genre": "टीव्ही कार्यक्रम",
+              "channelname": "",
+              "channellanguage": "इंग्रजी"
+            }
+          },
+          "channelid": "143802",
+          "channelname": "Sony Pix",
+          "channelimage": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Mccia8ek.png",
+          "lcn": "545",
+          "programstart": "2025-09-21T15:00:00.000Z",
+          "programstop": "2025-09-21T18:00:00.000Z",
+          "_id": "68ce4def85ffd708c0df506e",
+          "productionyear": "0",
+          "programlanguage": "English",
+          "broadcastlanguage": "English",
+          "programmedubbedlanguagename": "English",
+          "programmeurl": "https://dtil.tmsimg.com/assets/p12971380_b_h9_ad.jpg?lock=880x660",
+          "programmeid": "SH050303390000",
+          "episode-num": ""
+        },
+        {
+          "title": "Movie",
+          "genre": "TV Show",
+          "director": "",
+          "start": "2025-09-21T18:00:00Z",
+          "stop": "2025-09-21T21:00:00Z",
+          "desc": "This is TV Show - Entertainment Category",
+          "date": "20250921",
+          "subgenre": "Entertainment",
+          "dubbedlanguageid": "English",
+          "programmescore": "",
+          "seriesnumber": "",
+          "duration": "180",
+          "images": {
+            "landscape": {
+              "880x660": "https://dtil.tmsimg.com/assets/p12971380_b_h9_ad.jpg?lock=880x660",
+              "1280x720": "https://dtil.tmsimg.com/assets/p12971380_b_h8_ae.jpg?lock=1280x720",
+              "744x558": "https://dtil.tmsimg.com/assets/p12971380_b_h9_ad.jpg?lock=880x660",
+              "648x486": "https://dtil.tmsimg.com/assets/p12971380_b_h9_ad.jpg?lock=880x660",
+              "587x440": "https://dtil.tmsimg.com/assets/p12971380_b_h9_ad.jpg?lock=880x660",
+              "500x375": "https://dtil.tmsimg.com/assets/p12971380_b_h9_ad.jpg?lock=880x660",
+              "400x300": "https://dtil.tmsimg.com/assets/p12971380_b_h9_ad.jpg?lock=880x660",
+              "360x270": "https://dtil.tmsimg.com/assets/p12971380_b_h9_ad.jpg?lock=880x660"
+            },
+            "portrait": {
+              "660x880": "https://dtil.tmsimg.com/assets/p12971380_b_v13_ad.jpg?lock=660x880"
+            }
+          },
+          "credits": {
+            "actors": [],
+            "producers": [],
+            "directors": []
+          },
+          "regional": {
+            "english": {
+              "languagecode": "en",
+              "title": "Movie",
+              "desc": "This is TV Show - Entertainment Category",
+              "genre": "TV Show",
+              "channelname": "Sony Pix",
+              "channellanguage": "English"
+            },
+            "hindi": {
+              "languagecode": "hi",
+              "title": "मूवी",
+              "desc": "",
+              "genre": "टीवी कार्यक्रम",
+              "channelname": "सोनी पिक्स एसडी",
+              "channellanguage": "अंग्रेज़ी"
+            },
+            "tamil": {
+              "languagecode": "ta",
+              "title": "மூவி",
+              "desc": "",
+              "genre": "தொலைக்காட்சி நிகழ்ச்சி",
+              "channelname": "",
+              "channellanguage": ""
+            },
+            "telugu": {
+              "languagecode": "te",
+              "title": "మూవీ",
+              "desc": "",
+              "genre": "టీవీ కార్య‌క్ర‌మం",
+              "channelname": "",
+              "channellanguage": "ఇంగ్లీష్"
+            },
+            "marathi": {
+              "languagecode": "mr",
+              "title": "मूव्ही",
+              "desc": "",
+              "genre": "टीव्ही कार्यक्रम",
+              "channelname": "",
+              "channellanguage": "इंग्रजी"
+            }
+          },
+          "channelid": "143802",
+          "channelname": "Sony Pix",
+          "channelimage": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Mccia8ek.png",
+          "lcn": "545",
+          "programstart": "2025-09-21T18:00:00.000Z",
+          "programstop": "2025-09-21T21:00:00.000Z",
+          "_id": "68ce4def85ffd708c0df506f",
+          "productionyear": "0",
+          "programlanguage": "English",
+          "broadcastlanguage": "English",
+          "programmedubbedlanguagename": "English",
+          "programmeurl": "https://dtil.tmsimg.com/assets/p12971380_b_h9_ad.jpg?lock=880x660",
+          "programmeid": "SH050303390000",
+          "episode-num": ""
+        },
+        {
+          "title": "Movie",
+          "genre": "TV Show",
+          "director": "",
+          "start": "2025-09-21T21:00:00Z",
+          "stop": "2025-09-22T00:00:00Z",
+          "desc": "This is TV Show - Entertainment Category",
+          "date": "20250921",
+          "subgenre": "Entertainment",
+          "dubbedlanguageid": "English",
+          "programmescore": "",
+          "seriesnumber": "",
+          "duration": "180",
+          "images": {
+            "landscape": {
+              "880x660": "https://dtil.tmsimg.com/assets/p12971380_b_h9_ad.jpg?lock=880x660",
+              "1280x720": "https://dtil.tmsimg.com/assets/p12971380_b_h8_ae.jpg?lock=1280x720",
+              "744x558": "https://dtil.tmsimg.com/assets/p12971380_b_h9_ad.jpg?lock=880x660",
+              "648x486": "https://dtil.tmsimg.com/assets/p12971380_b_h9_ad.jpg?lock=880x660",
+              "587x440": "https://dtil.tmsimg.com/assets/p12971380_b_h9_ad.jpg?lock=880x660",
+              "500x375": "https://dtil.tmsimg.com/assets/p12971380_b_h9_ad.jpg?lock=880x660",
+              "400x300": "https://dtil.tmsimg.com/assets/p12971380_b_h9_ad.jpg?lock=880x660",
+              "360x270": "https://dtil.tmsimg.com/assets/p12971380_b_h9_ad.jpg?lock=880x660"
+            },
+            "portrait": {
+              "660x880": "https://dtil.tmsimg.com/assets/p12971380_b_v13_ad.jpg?lock=660x880"
+            }
+          },
+          "credits": {
+            "actors": [],
+            "producers": [],
+            "directors": []
+          },
+          "regional": {
+            "english": {
+              "languagecode": "en",
+              "title": "Movie",
+              "desc": "This is TV Show - Entertainment Category",
+              "genre": "TV Show",
+              "channelname": "Sony Pix",
+              "channellanguage": "English"
+            },
+            "hindi": {
+              "languagecode": "hi",
+              "title": "मूवी",
+              "desc": "",
+              "genre": "टीवी कार्यक्रम",
+              "channelname": "सोनी पिक्स एसडी",
+              "channellanguage": "अंग्रेज़ी"
+            },
+            "tamil": {
+              "languagecode": "ta",
+              "title": "மூவி",
+              "desc": "",
+              "genre": "தொலைக்காட்சி நிகழ்ச்சி",
+              "channelname": "",
+              "channellanguage": ""
+            },
+            "telugu": {
+              "languagecode": "te",
+              "title": "మూవీ",
+              "desc": "",
+              "genre": "టీవీ కార్య‌క్ర‌మం",
+              "channelname": "",
+              "channellanguage": "ఇంగ్లీష్"
+            },
+            "marathi": {
+              "languagecode": "mr",
+              "title": "मूव्ही",
+              "desc": "",
+              "genre": "टीव्ही कार्यक्रम",
+              "channelname": "",
+              "channellanguage": "इंग्रजी"
+            }
+          },
+          "channelid": "143802",
+          "channelname": "Sony Pix",
+          "channelimage": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Mccia8ek.png",
+          "lcn": "545",
+          "programstart": "2025-09-21T21:00:00.000Z",
+          "programstop": "2025-09-22T00:00:00.000Z",
+          "_id": "68ce4def85ffd708c0df5070",
+          "productionyear": "0",
+          "programlanguage": "English",
+          "broadcastlanguage": "English",
+          "programmedubbedlanguagename": "English",
+          "programmeurl": "https://dtil.tmsimg.com/assets/p12971380_b_h9_ad.jpg?lock=880x660",
+          "programmeid": "SH050303390000",
+          "episode-num": ""
+        }
+      ],
+      "_id": "143802"
+    },
+    {
       "channelid": "140069",
       "channelname": "Star Movies",
       "channelimage": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/9WMgCnfX.png",
