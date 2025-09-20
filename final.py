@@ -23,11 +23,11 @@ desired_channels = [
     "&prive HD",
     "&flix HD",
     "MNX",
-    "Sony PIX HD",
+    "Sony PIX",
     "Movies Now",
     "Star Movies",
     "Romedy Now",
-    "MN+ HD",
+    "MN+",
     "Star Movies Select HD"
 ]
 
